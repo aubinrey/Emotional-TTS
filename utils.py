@@ -22,10 +22,16 @@ def intersperse(lst, item):
     return result
 
 
+# def parse_filelist(filelist_path, split_char="|"):
+#     with open(filelist_path, 'r', encoding='utf-8') as json_file:
+#         datasetJson = json.load(json_file)
+#     filepaths_and_text = [[sample["path-wav"], sample["text"], sample["character-id"]] for sample in datasetJson]
+#     return filepaths_and_text
+
 def parse_filelist(filelist_path, split_char="|"):
     with open(filelist_path, 'r', encoding='utf-8') as json_file:
         datasetJson = json.load(json_file)
-    filepaths_and_text = [[sample["path-wav"], sample["text"], sample["character-id"]] for sample in datasetJson]
+    filepaths_and_text = [[sample["path-wav"], sample["text"], sample["character-id"], sample["emotion"]] for sample in datasetJson]
     return filepaths_and_text
 
 

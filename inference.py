@@ -44,8 +44,15 @@ if __name__ == '__main__':
     else:
         spk = None
     
+    if not isinstance(args.emotion_id, type(None)):
+        assert params.n_emotions > 1, "Ensure you set right number of speakers in `params.py`."
+        emotion = torch.LongTensor([args.emotion_id]).cuda()
+    else:
+        emotion = None
+    
     print('Initializing Grad-TTS...')
     generator = GradTTS(len(symbols)+1, params.n_spks, params.spk_emb_dim,
+                        params.n_emotions, params.emotion_emb_dim,
                         params.n_enc_channels, params.filter_channels,
                         params.filter_channels_dp, params.n_heads, params.n_enc_layers,
                         params.enc_kernel, params.enc_dropout, params.window_size,
@@ -74,7 +81,7 @@ if __name__ == '__main__':
             
             t = dt.datetime.now()
             y_enc, y_dec, attn = generator.forward(x, x_lengths, n_timesteps=args.timesteps, temperature=1.5,
-                                                   stoc=False, spk=spk, length_scale=0.91)
+                                                   stoc=False, spk=spk, emotion=emotion, length_scale=0.91)
             t = (dt.datetime.now() - t).total_seconds()
             print(f'Grad-TTS RTF: {t * 22050 / (y_dec.shape[-1] * 256)}')
 

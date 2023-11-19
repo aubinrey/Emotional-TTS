@@ -124,6 +124,14 @@ class TextMelSpeakerDataset(torch.utils.data.Dataset):
         mel = self.get_mel(filepath)
         speaker = self.get_speaker(speaker)
         return (text, mel, speaker)
+    
+    def get_quadruplet(self, line):
+        filepath, text, speaker, emotion = line[0], line[1], line[2], line[3]
+        text = self.get_text(text, add_blank=self.add_blank)
+        mel = self.get_mel(filepath)
+        speaker = self.get_speaker(speaker)
+        emotion = self.get_emotion(emotion)
+        return (text, mel, speaker, emotion)
 
     def get_mel(self, filepath):
         audio, sr = ta.load(filepath)
@@ -143,10 +151,19 @@ class TextMelSpeakerDataset(torch.utils.data.Dataset):
     def get_speaker(self, speaker):
         speaker = torch.LongTensor([int(speaker)])
         return speaker
+    
+    def get_emotion(self, emotion):
+        all_emotions = ["Angry", "Happy", "Sad", "Surprised", "Neutral"]
+        emotion = torch.LongTensor([int(all_emotions.index(emotion))])
+        return emotion
 
+    # def __getitem__(self, index):
+    #     text, mel, speaker = self.get_triplet(self.filelist[index])
+    #     item = {'y': mel, 'x': text, 'spk': speaker}
+    #     return item
     def __getitem__(self, index):
-        text, mel, speaker = self.get_triplet(self.filelist[index])
-        item = {'y': mel, 'x': text, 'spk': speaker}
+        text, mel, speaker, emotion = self.get_quadruplet(self.filelist[index])
+        item = {'y': mel, 'x': text, 'spk': speaker, 'emotion': emotion}
         return item
 
     def __len__(self):
@@ -172,16 +189,19 @@ class TextMelSpeakerBatchCollate(object):
         x = torch.zeros((B, x_max_length), dtype=torch.long)
         y_lengths, x_lengths = [], []
         spk = []
+        emotion = []
 
         for i, item in enumerate(batch):
-            y_, x_, spk_ = item['y'], item['x'], item['spk']
+            y_, x_, spk_, emotion_ = item['y'], item['x'], item['spk'], item['emotion']
             y_lengths.append(y_.shape[-1])
             x_lengths.append(x_.shape[-1])
             y[i, :, :y_.shape[-1]] = y_
             x[i, :x_.shape[-1]] = x_
             spk.append(spk_)
+            emotion.append(emotion_)
 
         y_lengths = torch.LongTensor(y_lengths)
         x_lengths = torch.LongTensor(x_lengths)
         spk = torch.cat(spk, dim=0)
-        return {'x': x, 'x_lengths': x_lengths, 'y': y, 'y_lengths': y_lengths, 'spk': spk}
+        emotion = torch.cat(emotion, dim=0)
+        return {'x': x, 'x_lengths': x_lengths, 'y': y, 'y_lengths': y_lengths, 'spk': spk, 'emotion': emotion}

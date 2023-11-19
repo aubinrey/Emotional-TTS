@@ -26,6 +26,8 @@ cmudict_path = params.cmudict_path
 add_blank = params.add_blank
 n_spks = params.n_spks
 spk_emb_dim = params.spk_emb_dim
+n_emotions = params.n_emotions
+emotion_emb_dim = params.emotion_emb_dim
 
 log_dir = params.log_dir
 n_epochs = params.n_epochs
@@ -78,7 +80,8 @@ if __name__ == "__main__":
                                          win_length, f_min, f_max)
 
     print('Initializing model...')
-    model = GradTTS(nsymbols, n_spks, spk_emb_dim, n_enc_channels,
+    model = GradTTS(nsymbols, n_spks, spk_emb_dim, 
+                    n_emotions, emotion_emb_dim, n_enc_channels,
                     filter_channels, filter_channels_dp, 
                     n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
                     n_feats, dec_dim, beta_min, beta_max, pe_scale).cuda()
@@ -121,11 +124,12 @@ if __name__ == "__main__":
     print('Logging test batch...')
     test_batch = test_dataset.sample_test_batch(size=params.test_size)
     for item in test_batch:
-        mel, spk = item['y'], item['spk']
+        mel, spk, emotion = item['y'], item['spk'], item['emotion']
         i = int(spk.cpu())
-        logger.add_image(f'image_{i}/ground_truth', plot_tensor(mel.squeeze()),
+        j = int(emotion.cpu())
+        logger.add_image(f'image_{i}_{j}/ground_truth', plot_tensor(mel.squeeze()),
                          global_step=0, dataformats='HWC')
-        save_plot(mel.squeeze(), f'{log_dir}/original_{i}.png')
+        save_plot(mel.squeeze(), f'{log_dir}/original_{i}_{j}.png')
 
     print('Start training...')
     iteration = 0
@@ -138,8 +142,10 @@ if __name__ == "__main__":
                 x_lengths = torch.LongTensor([x.shape[-1]]).cuda()
                 spk = item['spk'].to(torch.long).cuda()
                 i = int(spk.cpu())
+                emotion = item['emotion'].to(torch.long).cuda()
+                j = int(emotion.cpu())
                 
-                y_enc, y_dec, attn = model(x, x_lengths, n_timesteps=50, spk=spk)
+                y_enc, y_dec, attn = model(x, x_lengths, n_timesteps=50, spk=spk, emotion=emotion)
                 # logger.add_image(f'image_{i}/generated_enc',
                 #                  plot_tensor(y_enc.squeeze().cpu()),
                 #                  global_step=iteration, dataformats='HWC')
@@ -166,11 +172,13 @@ if __name__ == "__main__":
                 x, x_lengths = batch['x'].cuda(), batch['x_lengths'].cuda()
                 y, y_lengths = batch['y'].cuda(), batch['y_lengths'].cuda()
                 spk = batch['spk'].cuda()
+                emotion = batch['emotion'].cuda()
                 dur_loss, prior_loss, diff_loss = model.compute_loss(x, x_lengths,
                                                                      y, y_lengths,
-                                                                     spk=spk, out_size=out_size)
-                #loss = sum([dur_loss, prior_loss, diff_loss])
-                loss= diff_loss
+                                                                     spk=spk, emotion=emotion, 
+                                                                    out_size=out_size)
+                loss = sum([dur_loss, prior_loss, diff_loss])
+                #loss= diff_loss
                 loss.backward()
 
                 enc_grad_norm = torch.nn.utils.clip_grad_norm_(model.encoder.parameters(), 
