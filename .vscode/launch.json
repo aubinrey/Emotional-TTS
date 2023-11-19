@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [  
+        
+        {
+            "name": "train multi speaker",
+            "type": "python",
+            "request": "launch",
+            "program": "train_multi_speaker.py",
+            "args": [],
+            "console": "integratedTerminal",
+            "python": "C:/Users/Aubin/Desktop/Proj DL/Grad-TTS/.venv/Scripts/python.exe"
+        }
+    ]
+}

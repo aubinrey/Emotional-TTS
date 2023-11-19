@@ -1,0 +1,3566 @@
+[
+    {
+        "id": "S07E21_000026",
+        "character": "Chandler",
+        "text": "(seeing her) Okay.",
+        "duration": 2.0430000000000064,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000026.wav",
+        "character-id": 3,
+        "text-clean": " Okay."
+    },
+    {
+        "id": "S07E13_000210",
+        "character": "Mr. Geller",
+        "text": "Sweetheart, we love you just as much as Ross! Now, I'm sorry about everything that happened and I'd probably never be able to make it up to you, but here's a start. (He hands her a small box.)",
+        "duration": 12.303000000000111,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000210.wav",
+        "character-id": 9,
+        "text-clean": "Sweetheart, we love you just as much as Ross! Now, I'm sorry about everything that happened and I'd probably never be able to make it up to you, but here's a start. "
+    },
+    {
+        "id": "S07E21_000175",
+        "character": "Phoebe",
+        "text": "You should be. I'm very bendy. (Pause) I'm gonna kiss you now.",
+        "duration": 11.634999999999991,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000175.wav",
+        "character-id": 5,
+        "text-clean": "You should be. I'm very bendy.  I'm gonna kiss you now."
+    },
+    {
+        "id": "S07E16_000054",
+        "character": "Rachel",
+        "text": "Well y'know, we would umm, repeat everything the other said, or uh, we'd jump out of closets to scare each other, or switch the sugar for the salt so they'd put salt on their cereal.",
+        "duration": 14.305000000000007,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000054.wav",
+        "character-id": 6,
+        "text-clean": "Well y'know, we would umm, repeat everything the other said, or uh, we'd jump out of closets to scare each other, or switch the sugar for the salt so they'd put salt on their cereal."
+    },
+    {
+        "id": "S07E21_000210",
+        "character": "Rachel",
+        "text": "Well, we were just talkin' about you guys gettin' married and how great it is.",
+        "duration": 6.5470000000000255,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000210.wav",
+        "character-id": 6,
+        "text-clean": "Well, we were just talkin' about you guys gettin' married and how great it is."
+    },
+    {
+        "id": "S07E24_000082",
+        "character": "Matthew",
+        "text": "Let me start that again.",
+        "duration": 9.091000000000122,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000082.wav",
+        "character-id": 104,
+        "text-clean": "Let me start that again."
+    },
+    {
+        "id": "S07E19_000172",
+        "character": "Rachel",
+        "text": "Yeah?",
+        "duration": 2.8769999999999527,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000172.wav",
+        "character-id": 6,
+        "text-clean": "Yeah?"
+    },
+    {
+        "id": "S07E16_000052",
+        "character": "Rachel",
+        "text": "Oh, you're one of those. But y'know what? I have two sisters of my own and we just-just tortured each other.",
+        "duration": 2.919000000000011,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000052.wav",
+        "character-id": 6,
+        "text-clean": "Oh, you're one of those. But y'know what? I have two sisters of my own and we just-just tortured each other."
+    },
+    {
+        "id": "S07E19_000118",
+        "character": "Monica",
+        "text": "Wow! Wow! And it's definitely all gone? There's nothing there to work with? (Joey glares at her.) What were you thinking?",
+        "duration": 13.095000000000027,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000118.wav",
+        "character-id": 4,
+        "text-clean": "Wow! Wow! And it's definitely all gone? There's nothing there to work with?  What were you thinking?"
+    },
+    {
+        "id": "S07E19_000089",
+        "character": "Monica",
+        "text": "Because Purvy Perverson over here can't stop staring at her.",
+        "duration": 3.6689999999999827,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000089.wav",
+        "character-id": 4,
+        "text-clean": "Because Purvy Perverson over here can't stop staring at her."
+    },
+    {
+        "id": "S07E22_000248",
+        "character": "Woman",
+        "text": "Really?!",
+        "duration": 3.8780000000001564,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000248.wav",
+        "character-id": 7,
+        "text-clean": "Really?!"
+    },
+    {
+        "id": "S07E22_000014",
+        "character": "Phoebe",
+        "text": "Okay, I can fix this! Okay Monica, Rachel thinks all you can talk about is the wedding. (Rachel glares at her.)",
+        "duration": 4.962000000000003,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000014.wav",
+        "character-id": 5,
+        "text-clean": "Okay, I can fix this! Okay Monica, Rachel thinks all you can talk about is the wedding. "
+    },
+    {
+        "id": "S07E21_000172",
+        "character": "Chandler",
+        "text": "Oh, you're-you're going?",
+        "duration": 1.25,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000172.wav",
+        "character-id": 3,
+        "text-clean": "Oh, you're-you're going?"
+    },
+    {
+        "id": "S07E23_000015",
+        "character": "Ross",
+        "text": "No, its Its not that. Umm, now what I'm going to say to you, I'm not saying as your friend. Okay? I'm-I'm saying as it as Monica's older brother.",
+        "duration": 8.758000000000003,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000015.wav",
+        "character-id": 1,
+        "text-clean": "No, its Its not that. Umm, now what I'm going to say to you, I'm not saying as your friend. Okay? I'm-I'm saying as it as Monica's older brother."
+    },
+    {
+        "id": "S07E16_000108",
+        "character": "Ben",
+        "text": "Don't do that.",
+        "duration": 1.6680000000000064,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000108.wav",
+        "character-id": 42,
+        "text-clean": "Don't do that."
+    },
+    {
+        "id": "S07E17_000131",
+        "character": "Ross",
+        "text": "Well you shouldn't be. Believe me I wouldn't want to be the guy who's up against you. (Chandler laughs.) I mean that doofus is going to lose!",
+        "duration": 9.759000000000015,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000131.wav",
+        "character-id": 1,
+        "text-clean": "Well you shouldn't be. Believe me I wouldn't want to be the guy who's up against you.  I mean that doofus is going to lose!"
+    },
+    {
+        "id": "S07E17_000148",
+        "character": "Ross",
+        "text": "So let's decide on the spending limit",
+        "duration": 3.5020000000000664,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000148.wav",
+        "character-id": 1,
+        "text-clean": "So let's decide on the spending limit"
+    },
+    {
+        "id": "S07E21_000053",
+        "character": "Ross",
+        "text": "(Screaming) I'm getting married today!! Ahh, whoo-hoo!!(He runs back out the door.)",
+        "duration": 1.29200000000003,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000053.wav",
+        "character-id": 1,
+        "text-clean": " I'm getting married today!! Ahh, whoo-hoo!!"
+    },
+    {
+        "id": "S07E21_000180",
+        "character": "Phoebe",
+        "text": "And why not?!",
+        "duration": 1.83400000000006,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000180.wav",
+        "character-id": 5,
+        "text-clean": "And why not?!"
+    },
+    {
+        "id": "S07E13_000185",
+        "character": "Earl",
+        "text": "I thought it was toner.",
+        "duration": 1.70900000000006,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000185.wav",
+        "character-id": 63,
+        "text-clean": "I thought it was toner."
+    },
+    {
+        "id": "S07E22_000153",
+        "character": "Policeman",
+        "text": "Nope.",
+        "duration": 1.25,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000153.wav",
+        "character-id": 93,
+        "text-clean": "Nope."
+    },
+    {
+        "id": "S07E15_000206",
+        "character": "Joey",
+        "text": "Ohh. Wow! Well how-how, how will you be gone?",
+        "duration": 1.1669999999999163,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000206.wav",
+        "character-id": 2,
+        "text-clean": "Ohh. Wow! Well how-how, how will you be gone?"
+    },
+    {
+        "id": "S07E19_000168",
+        "character": "Phoebe",
+        "text": "Thank you. (To the other woman) No? (She nods.) All right. (She goes to another pairing.) Oh, it's so nice to see you.",
+        "duration": 2.9189999999999827,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000168.wav",
+        "character-id": 5,
+        "text-clean": "Thank you.  No?  All right.  Oh, it's so nice to see you."
+    },
+    {
+        "id": "S07E22_000000",
+        "character": "Ross",
+        "text": "Hey!",
+        "duration": 1.4170000000000003,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000000.wav",
+        "character-id": 1,
+        "text-clean": "Hey!"
+    },
+    {
+        "id": "S07E24_000048",
+        "character": "Phoebe",
+        "text": "What do I smell?",
+        "duration": 4.420000000000016,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000048.wav",
+        "character-id": 5,
+        "text-clean": "What do I smell?"
+    },
+    {
+        "id": "S07E16_000193",
+        "character": "Monica",
+        "text": "Chandler, please! Do you know how unbelievably glad I am that Joey was not there that night?!",
+        "duration": 4.627999999999929,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000193.wav",
+        "character-id": 4,
+        "text-clean": "Chandler, please! Do you know how unbelievably glad I am that Joey was not there that night?!"
+    },
+    {
+        "id": "S07E16_000166",
+        "character": "Chandler",
+        "text": "Count of three?",
+        "duration": 2.5430000000000064,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000166.wav",
+        "character-id": 3,
+        "text-clean": "Count of three?"
+    },
+    {
+        "id": "S07E19_000212",
+        "character": "Phoebe",
+        "text": "And then for forgetting to invite you to it.",
+        "duration": 2.459999999999809,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000212.wav",
+        "character-id": 5,
+        "text-clean": "And then for forgetting to invite you to it."
+    },
+    {
+        "id": "S07E16_000019",
+        "character": "Ross",
+        "text": "What's the matter?",
+        "duration": 2.544000000000004,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000019.wav",
+        "character-id": 1,
+        "text-clean": "What's the matter?"
+    },
+    {
+        "id": "S07E13_000089",
+        "character": "Earl",
+        "text": "Okay, I don't need any toner because I'm going to kill myself.",
+        "duration": 6.588999999999942,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000089.wav",
+        "character-id": 63,
+        "text-clean": "Okay, I don't need any toner because I'm going to kill myself."
+    },
+    {
+        "id": "S07E22_000221",
+        "character": "Rachel",
+        "text": "Remind me to introduce you to someone!",
+        "duration": 2.0010000000002037,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000221.wav",
+        "character-id": 6,
+        "text-clean": "Remind me to introduce you to someone!"
+    },
+    {
+        "id": "S07E17_000092",
+        "character": "Monica",
+        "text": "You came?!",
+        "duration": 1.625,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000092.wav",
+        "character-id": 4,
+        "text-clean": "You came?!"
+    },
+    {
+        "id": "S07E13_000198",
+        "character": "Earl",
+        "text": "Philadelphia.",
+        "duration": 2.66800000000012,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000198.wav",
+        "character-id": 63,
+        "text-clean": "Philadelphia."
+    },
+    {
+        "id": "S07E13_000031",
+        "character": "Ross",
+        "text": "I can't believe we have to say goodbye to the house we grew up in. Man, some-some stranger's gonna be living in my room.",
+        "duration": 2.876999999999981,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000031.wav",
+        "character-id": 1,
+        "text-clean": "I can't believe we have to say goodbye to the house we grew up in. Man, some-some stranger's gonna be living in my room."
+    },
+    {
+        "id": "S07E24_000015",
+        "character": "Jennifer",
+        "text": "(to Lisa) Operation. You had a fun one.",
+        "duration": 2.418000000000001,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000015.wav",
+        "character-id": 105,
+        "text-clean": " Operation. You had a fun one."
+    },
+    {
+        "id": "S07E17_000215",
+        "character": "Kristen",
+        "text": "Yeah, little Eric.",
+        "duration": 4.045000000000073,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000215.wav",
+        "character-id": 75,
+        "text-clean": "Yeah, little Eric."
+    },
+    {
+        "id": "S07E17_000173",
+        "character": "Joey",
+        "text": "You spent a hundred dollars. That's the limit. You're screwed!",
+        "duration": 4.461999999999989,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000173.wav",
+        "character-id": 2,
+        "text-clean": "You spent a hundred dollars. That's the limit. You're screwed!"
+    },
+    {
+        "id": "S07E15_000086",
+        "character": "Rachel",
+        "text": "(showing Phoebe her phone) His new girlfriend!",
+        "duration": 2.16700000000003,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000086.wav",
+        "character-id": 6,
+        "text-clean": " His new girlfriend!"
+    },
+    {
+        "id": "S07E23_000181",
+        "character": "Ross",
+        "text": "Gunther have you uh, have you seen Chandler?",
+        "duration": 3.7530000000000427,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000181.wav",
+        "character-id": 1,
+        "text-clean": "Gunther have you uh, have you seen Chandler?"
+    },
+    {
+        "id": "S07E13_000086",
+        "character": "Earl",
+        "text": "I don't need any toner.",
+        "duration": 2.4589999999999463,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000086.wav",
+        "character-id": 63,
+        "text-clean": "I don't need any toner."
+    },
+    {
+        "id": "S07E21_000144",
+        "character": "Joey",
+        "text": "Well I didn't tell them!",
+        "duration": 3.4610000000000127,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000144.wav",
+        "character-id": 2,
+        "text-clean": "Well I didn't tell them!"
+    },
+    {
+        "id": "S07E23_000119",
+        "character": "Ross",
+        "text": "Thanks you guys. (Walks away happily and his parents smile.)",
+        "duration": 7.423000000000002,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000119.wav",
+        "character-id": 1,
+        "text-clean": "Thanks you guys. "
+    },
+    {
+        "id": "S07E21_000209",
+        "character": "Chandler",
+        "text": "What's going on?",
+        "duration": 3.0850000000000364,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000209.wav",
+        "character-id": 3,
+        "text-clean": "What's going on?"
+    },
+    {
+        "id": "S07E16_000087",
+        "character": "Monica",
+        "text": "You did it! You got ordained?!",
+        "duration": 2.1680000000000064,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000087.wav",
+        "character-id": 4,
+        "text-clean": "You did it! You got ordained?!"
+    },
+    {
+        "id": "S07E14_000087",
+        "character": "Ursula",
+        "text": "(sarcastic) Okay.",
+        "duration": 1.25,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000087.wav",
+        "character-id": 64,
+        "text-clean": " Okay."
+    },
+    {
+        "id": "S07E16_000051",
+        "character": "Rachel",
+        "text": "(checks her watch) Fifty-two minutes. (Pause) So no-no brothers and sisters, huh? That must be nice. You don't have to share stuff.",
+        "duration": 13.930000000000007,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000051.wav",
+        "character-id": 6,
+        "text-clean": " Fifty-two minutes.  So no-no brothers and sisters, huh? That must be nice. You don't have to share stuff."
+    },
+    {
+        "id": "S07E23_000216",
+        "character": "Phoebe",
+        "text": "Shhh! Stop it! Stop it Rachel! You can't do this here! (She drags her into the bathroom.)",
+        "duration": 2.6679999999998927,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000216.wav",
+        "character-id": 5,
+        "text-clean": "Shhh! Stop it! Stop it Rachel! You can't do this here! "
+    },
+    {
+        "id": "S07E13_000217",
+        "character": "Ross",
+        "text": "Well w-w-w-w-wait, w-wait, wait, wait a minute! I mean a couple of stupid boxes get wet and she gets a Porsche?!",
+        "duration": 6.9220000000000255,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000217.wav",
+        "character-id": 1,
+        "text-clean": "Well w-w-w-w-wait, w-wait, wait, wait a minute! I mean a couple of stupid boxes get wet and she gets a Porsche?!"
+    },
+    {
+        "id": "S07E18_000019",
+        "character": "Ross",
+        "text": "Just a high pitched intimidating noise.",
+        "duration": 4.253,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000019.wav",
+        "character-id": 1,
+        "text-clean": "Just a high pitched intimidating noise."
+    },
+    {
+        "id": "S07E23_000132",
+        "character": "Monica",
+        "text": "Who wants it? Anybody?",
+        "duration": 2.7520000000000664,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000132.wav",
+        "character-id": 4,
+        "text-clean": "Who wants it? Anybody?"
+    },
+    {
+        "id": "S07E21_000163",
+        "character": "Phoebe",
+        "text": "He's not backing down. He went to get lotion.",
+        "duration": 2.7509999999999764,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000163.wav",
+        "character-id": 5,
+        "text-clean": "He's not backing down. He went to get lotion."
+    },
+    {
+        "id": "S07E18_000128",
+        "character": "Joey",
+        "text": "I'll take it back tomorrow.",
+        "duration": 3.1269999999999527,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000128.wav",
+        "character-id": 2,
+        "text-clean": "I'll take it back tomorrow."
+    },
+    {
+        "id": "S07E13_000163",
+        "character": "Rachel",
+        "text": "Yeah.",
+        "duration": 1.7509999999999764,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000163.wav",
+        "character-id": 6,
+        "text-clean": "Yeah."
+    },
+    {
+        "id": "S07E13_000218",
+        "character": "Mr. Geller",
+        "text": "(To Monica) Why don't we take it for a spin?",
+        "duration": 2.08400000000006,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000218.wav",
+        "character-id": 9,
+        "text-clean": " Why don't we take it for a spin?"
+    },
+    {
+        "id": "S07E23_000117",
+        "character": "Chandler",
+        "text": "Oh my God! (He and Monica walk away.)",
+        "duration": 1.70900000000006,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000117.wav",
+        "character-id": 3,
+        "text-clean": "Oh my God! "
+    },
+    {
+        "id": "S07E22_000057",
+        "character": "Man",
+        "text": "Hey guys!",
+        "duration": 1.7930000000000064,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000057.wav",
+        "character-id": 16,
+        "text-clean": "Hey guys!"
+    },
+    {
+        "id": "S07E21_000078",
+        "character": "Joey",
+        "text": "(yelling through the door) Can we come it yet?! We're dying out here!",
+        "duration": 2.6269999999999527,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000078.wav",
+        "character-id": 2,
+        "text-clean": " Can we come it yet?! We're dying out here!"
+    },
+    {
+        "id": "S07E19_000133",
+        "character": "Phoebe",
+        "text": "Hey!",
+        "duration": 1.5009999999999764,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000133.wav",
+        "character-id": 5,
+        "text-clean": "Hey!"
+    },
+    {
+        "id": "S07E22_000002",
+        "character": "Ross",
+        "text": "Hey uh Mon, I saw the Porsche parked out front, can I get the keys? Thought I'd take that bad boy out for a little spin.",
+        "duration": 6.005000000000001,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000002.wav",
+        "character-id": 1,
+        "text-clean": "Hey uh Mon, I saw the Porsche parked out front, can I get the keys? Thought I'd take that bad boy out for a little spin."
+    },
+    {
+        "id": "S07E16_000240",
+        "character": "Monica",
+        "text": "Your favorite!",
+        "duration": 2.3759999999999764,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000240.wav",
+        "character-id": 4,
+        "text-clean": "Your favorite!"
+    },
+    {
+        "id": "S07E17_000057",
+        "character": "Megan",
+        "text": "Oh, you're so lucky. My fiancee wants the heavy metal band Carcass.",
+        "duration": 4.128000000000043,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000057.wav",
+        "character-id": 76,
+        "text-clean": "Oh, you're so lucky. My fiancee wants the heavy metal band Carcass."
+    },
+    {
+        "id": "S07E20_000080",
+        "character": "Chandler",
+        "text": "Oh, I have to get married in James Bond's tux!",
+        "duration": 5.212000000000046,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000080.wav",
+        "character-id": 3,
+        "text-clean": "Oh, I have to get married in James Bond's tux!"
+    },
+    {
+        "id": "S07E15_000110",
+        "character": "Phoebe",
+        "text": "That is a different phone.",
+        "duration": 2.0009999999999764,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000110.wav",
+        "character-id": 5,
+        "text-clean": "That is a different phone."
+    },
+    {
+        "id": "S07E20_000206",
+        "character": "Ross",
+        "text": "Let me see that! (Grabs the invitation and reads it.) Oh man!",
+        "duration": 5.003999999999905,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000206.wav",
+        "character-id": 1,
+        "text-clean": "Let me see that!  Oh man!"
+    },
+    {
+        "id": "S07E18_000145",
+        "character": "Monica",
+        "text": "Have you seen Chandler?",
+        "duration": 1.91700000000003,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000145.wav",
+        "character-id": 4,
+        "text-clean": "Have you seen Chandler?"
+    },
+    {
+        "id": "S07E19_000021",
+        "character": "Monica",
+        "text": "Yeah. But a part of me also can't wait \u00c2\u2018til it's over. Chandler and I have this pact not to have sex again until the wedding.",
+        "duration": 6.2549999999999955,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000021.wav",
+        "character-id": 4,
+        "text-clean": "Yeah. But a part of me also can't wait \u00c2\u2018til it's over. Chandler and I have this pact not to have sex again until the wedding."
+    },
+    {
+        "id": "S07E14_000205",
+        "character": "Ross",
+        "text": "God, do you realize in ten years we're gonna be 40?",
+        "duration": 4.3370000000002165,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000205.wav",
+        "character-id": 1,
+        "text-clean": "God, do you realize in ten years we're gonna be 40?"
+    },
+    {
+        "id": "S07E16_000062",
+        "character": "Monica",
+        "text": "We're never gonna find anybody.",
+        "duration": 2.5849999999999795,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000062.wav",
+        "character-id": 4,
+        "text-clean": "We're never gonna find anybody."
+    },
+    {
+        "id": "S07E17_000181",
+        "character": "Joey",
+        "text": "Well we'll see!",
+        "duration": 1.6669999999999163,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000181.wav",
+        "character-id": 2,
+        "text-clean": "Well we'll see!"
+    },
+    {
+        "id": "S07E18_000017",
+        "character": "Ross",
+        "text": "and it was Ernst Muhlbrat who first hypothesized that the Velociraptor would expand it's collar and emit a high pitched noise to frighten it's predator. (A student raises his hand.) Yes Mr. Lewis?",
+        "duration": 12.887,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000017.wav",
+        "character-id": 1,
+        "text-clean": "and it was Ernst Muhlbrat who first hypothesized that the Velociraptor would expand it's collar and emit a high pitched noise to frighten it's predator.  Yes Mr. Lewis?"
+    },
+    {
+        "id": "S07E17_000130",
+        "character": "Joey",
+        "text": "Well, I sorta am. I mean yeah, I'm dating this girl who's also seeing another guy. But, I don't know, I'm not too worried about it.",
+        "duration": 6.6720000000000255,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000130.wav",
+        "character-id": 2,
+        "text-clean": "Well, I sorta am. I mean yeah, I'm dating this girl who's also seeing another guy. But, I don't know, I'm not too worried about it."
+    },
+    {
+        "id": "S07E22_000009",
+        "character": "Joey",
+        "text": "Saw the Porsche out there Mon, lookin' good. When do I get to take that baby out again?",
+        "duration": 4.462000000000003,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000009.wav",
+        "character-id": 2,
+        "text-clean": "Saw the Porsche out there Mon, lookin' good. When do I get to take that baby out again?"
+    },
+    {
+        "id": "S07E16_000105",
+        "character": "Rachel",
+        "text": "Yes oh\u00c2\u2014(To Ben)\u00c2\u2014Do I want sugar in my coffee? (Ben nods no.) No, just some milk would be good Carol. Thanks. (To Ben) Okay, do you remember all that stuff I taught you yesterday?",
+        "duration": 14.138000000000034,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000105.wav",
+        "character-id": 6,
+        "text-clean": "Yes oh\u00c2\u2014\u00c2\u2014Do I want sugar in my coffee?  No, just some milk would be good Carol. Thanks.  Okay, do you remember all that stuff I taught you yesterday?"
+    },
+    {
+        "id": "S07E19_000090",
+        "character": "Ross",
+        "text": "What?! Chandler, she's our cousin!",
+        "duration": 2.2930000000000064,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000090.wav",
+        "character-id": 1,
+        "text-clean": "What?! Chandler, she's our cousin!"
+    },
+    {
+        "id": "S07E22_000111",
+        "character": "Rachel",
+        "text": "Oh Ross you're so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax (She takes her hands off of the wheel.)",
+        "duration": 8.339999999999918,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000111.wav",
+        "character-id": 6,
+        "text-clean": "Oh Ross you're so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax "
+    },
+    {
+        "id": "S07E21_000137",
+        "character": "All",
+        "text": "Bye!",
+        "duration": 1.7509999999999764,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000137.wav",
+        "character-id": 41,
+        "text-clean": "Bye!"
+    },
+    {
+        "id": "S07E16_000094",
+        "character": "Chandler",
+        "text": "(To Monica) Should we call the spitter?",
+        "duration": 2.001000000000033,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000094.wav",
+        "character-id": 3,
+        "text-clean": " Should we call the spitter?"
+    },
+    {
+        "id": "S07E20_000004",
+        "character": "Rachel",
+        "text": "(to the gang) Oh my God, Melissa Warburton. I don't think I have the energy for this.",
+        "duration": 4.044999999999998,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000004.wav",
+        "character-id": 6,
+        "text-clean": " Oh my God, Melissa Warburton. I don't think I have the energy for this."
+    },
+    {
+        "id": "S07E23_000182",
+        "character": "Gunther",
+        "text": "No. No, I haven't seen him.",
+        "duration": 3.7530000000000427,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000182.wav",
+        "character-id": 52,
+        "text-clean": "No. No, I haven't seen him."
+    },
+    {
+        "id": "S07E14_000031",
+        "character": "Joey",
+        "text": "Hey, what's the horsepower on this thing?",
+        "duration": 3.7110000000000127,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000031.wav",
+        "character-id": 2,
+        "text-clean": "Hey, what's the horsepower on this thing?"
+    },
+    {
+        "id": "S07E17_000023",
+        "character": "Ross",
+        "text": "Ah.",
+        "duration": 3.501999999999981,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000023.wav",
+        "character-id": 1,
+        "text-clean": "Ah."
+    },
+    {
+        "id": "S07E23_000168",
+        "character": "Richard",
+        "text": "Hey Joey, could you uh, go through these lines with me? (He's holding a script.)",
+        "duration": 3.3360000000000127,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000168.wav",
+        "character-id": 97,
+        "text-clean": "Hey Joey, could you uh, go through these lines with me? "
+    },
+    {
+        "id": "S07E21_000105",
+        "character": "Joey",
+        "text": "(To Chandler) You?! (To Monica) And-and you?!",
+        "duration": 2.9599999999999227,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000105.wav",
+        "character-id": 2,
+        "text-clean": " You?!  And-and you?!"
+    },
+    {
+        "id": "S07E15_000197",
+        "character": "Ross",
+        "text": "(To Rachel) Do you wanna start telling secrets?",
+        "duration": 50.96699999999987,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000197.wav",
+        "character-id": 1,
+        "text-clean": " Do you wanna start telling secrets?"
+    },
+    {
+        "id": "S07E16_000241",
+        "character": "Joey",
+        "text": "Ho-ho-ho, (pausing for a rest next to the fridge) fried stuff with cheese!",
+        "duration": 4.252999999999929,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000241.wav",
+        "character-id": 2,
+        "text-clean": "Ho-ho-ho,  fried stuff with cheese!"
+    },
+    {
+        "id": "S07E16_000077",
+        "character": "Ross",
+        "text": "Yes! Ben learned a little trick.",
+        "duration": 4.252999999999986,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000077.wav",
+        "character-id": 1,
+        "text-clean": "Yes! Ben learned a little trick."
+    },
+    {
+        "id": "S07E19_000067",
+        "character": "Phoebe",
+        "text": "I don't know. (Timidly) A cowboy theme?",
+        "duration": 3.3360000000000127,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000067.wav",
+        "character-id": 5,
+        "text-clean": "I don't know.  A cowboy theme?"
+    },
+    {
+        "id": "S07E23_000206",
+        "character": "The Assistant Director",
+        "text": "You are now.",
+        "duration": 3.043999999999869,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000206.wav",
+        "character-id": 96,
+        "text-clean": "You are now."
+    },
+    {
+        "id": "S07E17_000015",
+        "character": "Ross",
+        "text": "(noticing a beautiful woman moving in down the street) Well hello! She's cute! Should we uh, go try to talk to her?",
+        "duration": 6.546999999999997,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000015.wav",
+        "character-id": 1,
+        "text-clean": " Well hello! She's cute! Should we uh, go try to talk to her?"
+    },
+    {
+        "id": "S07E16_000207",
+        "character": "Ross",
+        "text": "Your good friend?",
+        "duration": 2.7519999999999527,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000207.wav",
+        "character-id": 1,
+        "text-clean": "Your good friend?"
+    },
+    {
+        "id": "S07E13_000148",
+        "character": "Mr. Geller",
+        "text": "Well, I used your boxes to divert water away from the Porsche.",
+        "duration": 3.794999999999959,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000148.wav",
+        "character-id": 9,
+        "text-clean": "Well, I used your boxes to divert water away from the Porsche."
+    },
+    {
+        "id": "S07E19_000119",
+        "character": "Joey",
+        "text": "I don't know! I really want this part! And they tell you no matter what you get asked at an audition you say yes. Like if-if they want you to ride a horse, you tell \u00c2\u2018em you can! And just figure out how to do it later.",
+        "duration": 13.303999999999974,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000119.wav",
+        "character-id": 2,
+        "text-clean": "I don't know! I really want this part! And they tell you no matter what you get asked at an audition you say yes. Like if-if they want you to ride a horse, you tell \u00c2\u2018em you can! And just figure out how to do it later."
+    },
+    {
+        "id": "S07E23_000170",
+        "character": "Richard",
+        "text": "Just the last two pages.",
+        "duration": 3.2519999999999527,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000170.wav",
+        "character-id": 97,
+        "text-clean": "Just the last two pages."
+    },
+    {
+        "id": "S07E14_000062",
+        "character": "Monica",
+        "text": "Oh no! My parents have never seen me drunk! (Pause) That they know of.",
+        "duration": 4.545999999999992,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000062.wav",
+        "character-id": 4,
+        "text-clean": "Oh no! My parents have never seen me drunk!  That they know of."
+    },
+    {
+        "id": "S07E22_000176",
+        "character": "Monica",
+        "text": "Relax! You'll be fine. (Chandler exhales and turns off the table light.) Oh much better. You're invisible now.",
+        "duration": 7.799000000000092,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000176.wav",
+        "character-id": 4,
+        "text-clean": "Relax! You'll be fine.  Oh much better. You're invisible now."
+    },
+    {
+        "id": "S07E19_000213",
+        "character": "Monica",
+        "text": "You al-you already had it?",
+        "duration": 1.5009999999999764,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000213.wav",
+        "character-id": 4,
+        "text-clean": "You al-you already had it?"
+    },
+    {
+        "id": "S07E18_000161",
+        "character": "Rachel",
+        "text": "I cannot believe I'm gonna meet Jessica Ashley!",
+        "duration": 3.4600000000000364,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000161.wav",
+        "character-id": 6,
+        "text-clean": "I cannot believe I'm gonna meet Jessica Ashley!"
+    },
+    {
+        "id": "S07E23_000243",
+        "character": "Joey",
+        "text": "Yes you are!",
+        "duration": 2.66800000000012,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000243.wav",
+        "character-id": 2,
+        "text-clean": "Yes you are!"
+    },
+    {
+        "id": "S07E22_000010",
+        "character": "Rachel",
+        "text": "(shocked) You let Joey drive it?!",
+        "duration": 4.419999999999995,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000010.wav",
+        "character-id": 6,
+        "text-clean": " You let Joey drive it?!"
+    },
+    {
+        "id": "S07E21_000153",
+        "character": "Rachel",
+        "text": "I can not believe he would do that to Mon\u00c2\u2014Whoa! (She stops suddenly and slowly turns to point at Joey. Joey is avoiding her eyes.) Joey, do they know that we know?",
+        "duration": 14.09699999999998,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000153.wav",
+        "character-id": 6,
+        "text-clean": "I can not believe he would do that to Mon\u00c2\u2014Whoa!  Joey, do they know that we know?"
+    },
+    {
+        "id": "S07E15_000054",
+        "character": "Phoebe",
+        "text": "Ah-ha! Too cocky!",
+        "duration": 2.6270000000000095,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000054.wav",
+        "character-id": 5,
+        "text-clean": "Ah-ha! Too cocky!"
+    },
+    {
+        "id": "S07E17_000031",
+        "character": "Ross",
+        "text": "Great! Uh, let me take this up for you. (The box he's holding.)",
+        "duration": 6.713999999999999,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000031.wav",
+        "character-id": 1,
+        "text-clean": "Great! Uh, let me take this up for you. "
+    },
+    {
+        "id": "S07E21_000197",
+        "character": "Rachel",
+        "text": "Aww, look at the little thing.",
+        "duration": 3.1269999999999527,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000197.wav",
+        "character-id": 6,
+        "text-clean": "Aww, look at the little thing."
+    },
+    {
+        "id": "S07E13_000095",
+        "character": "Earl",
+        "text": "It's just that I uh, have been working for ten years now at this meaningless, dead-end job and nobody here even knows I exist!",
+        "duration": 8.673999999999978,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000095.wav",
+        "character-id": 63,
+        "text-clean": "It's just that I uh, have been working for ten years now at this meaningless, dead-end job and nobody here even knows I exist!"
+    },
+    {
+        "id": "S07E20_000079",
+        "character": "Chandler",
+        "text": "007?! This is James Bond's tux?!",
+        "duration": 6.4220000000000255,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000079.wav",
+        "character-id": 3,
+        "text-clean": "007?! This is James Bond's tux?!"
+    },
+    {
+        "id": "S07E15_000200",
+        "character": "Ross",
+        "text": "You know the song! Sing along!",
+        "duration": 2.5009999999999764,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000200.wav",
+        "character-id": 1,
+        "text-clean": "You know the song! Sing along!"
+    },
+    {
+        "id": "S07E15_000181",
+        "character": "Monica",
+        "text": "(breaks away) Oh wait, just one more thing! One more minute! (To Cecilia) Umm, you're a stupid bitch.",
+        "duration": 6.463000000000193,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000181.wav",
+        "character-id": 4,
+        "text-clean": " Oh wait, just one more thing! One more minute!  Umm, you're a stupid bitch."
+    },
+    {
+        "id": "S07E14_000097",
+        "character": "Mrs. Geller",
+        "text": "(stopping him) Don't get up Jack! The safety pins are about to blow.",
+        "duration": 2.8769999999999527,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000097.wav",
+        "character-id": 8,
+        "text-clean": " Don't get up Jack! The safety pins are about to blow."
+    },
+    {
+        "id": "S07E14_000180",
+        "character": "Rachel",
+        "text": "Whatever! Okay, I'm not your mother.",
+        "duration": 2.5009999999999764,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000180.wav",
+        "character-id": 6,
+        "text-clean": "Whatever! Okay, I'm not your mother."
+    },
+    {
+        "id": "S07E23_000019",
+        "character": "Ross",
+        "text": "Nope.",
+        "duration": 4.128,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000019.wav",
+        "character-id": 1,
+        "text-clean": "Nope."
+    },
+    {
+        "id": "S07E19_000155",
+        "character": "Ross",
+        "text": "Yeah\u00c2\u2014No!!",
+        "duration": 1.95900000000006,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000155.wav",
+        "character-id": 1,
+        "text-clean": "Yeah\u00c2\u2014No!!"
+    },
+    {
+        "id": "S07E22_000193",
+        "character": "Joey",
+        "text": "Yeah! And-and things aren't as smashed down as I thought they were gonna be.",
+        "duration": 4.879000000000019,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000193.wav",
+        "character-id": 2,
+        "text-clean": "Yeah! And-and things aren't as smashed down as I thought they were gonna be."
+    },
+    {
+        "id": "S07E18_000076",
+        "character": "Rachel",
+        "text": "(entering from her room) Whoa what?",
+        "duration": 3.7939999999999827,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000076.wav",
+        "character-id": 6,
+        "text-clean": " Whoa what?"
+    },
+    {
+        "id": "S07E23_000249",
+        "character": "Phoebe",
+        "text": "But look Chandler, right now no-one has a lower opinion of you than I do. But I totally believe you can do this.",
+        "duration": 1.8759999999999764,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000249.wav",
+        "character-id": 5,
+        "text-clean": "But look Chandler, right now no-one has a lower opinion of you than I do. But I totally believe you can do this."
+    },
+    {
+        "id": "S07E23_000100",
+        "character": "Mrs. Bing",
+        "text": "Chandler!",
+        "duration": 1.58400000000006,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000100.wav",
+        "character-id": 98,
+        "text-clean": "Chandler!"
+    },
+    {
+        "id": "S07E17_000016",
+        "character": "Chandler",
+        "text": "Sure! That's one of the great things about being engaged. I'm not nervous talking to pretty girls anymore.",
+        "duration": 5.170999999999992,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000016.wav",
+        "character-id": 3,
+        "text-clean": "Sure! That's one of the great things about being engaged. I'm not nervous talking to pretty girls anymore."
+    },
+    {
+        "id": "S07E21_000031",
+        "character": "Monica",
+        "text": "Now everybody knows the basic erogenous zones. (She starts labelling them) You got one, two three, four (Chandler is shocked to find out there's more than three), five, six, and seven!",
+        "duration": 9.425000000000011,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000031.wav",
+        "character-id": 4,
+        "text-clean": "Now everybody knows the basic erogenous zones.  You got one, two three, four , five, six, and seven!"
+    },
+    {
+        "id": "S07E22_000118",
+        "character": "Monica",
+        "text": "Uh oh yeah, she did. Uh, he did. (To Chandler) She? (To the waiter) I'm-I'm sorry I'm new. I don't",
+        "duration": 5.546000000000049,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000118.wav",
+        "character-id": 4,
+        "text-clean": "Uh oh yeah, she did. Uh, he did.  She?  I'm-I'm sorry I'm new. I don't"
+    },
+    {
+        "id": "S07E15_000095",
+        "character": "Monica",
+        "text": "He cannot play at our wedding! I mean everyone will leave! I mean come on, that is just noise! It's not even a song!",
+        "duration": 8.257000000000005,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000095.wav",
+        "character-id": 4,
+        "text-clean": "He cannot play at our wedding! I mean everyone will leave! I mean come on, that is just noise! It's not even a song!"
+    },
+    {
+        "id": "S07E21_000229",
+        "character": "Ross",
+        "text": "You can't do that!",
+        "duration": 2.54300000000012,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000229.wav",
+        "character-id": 1,
+        "text-clean": "You can't do that!"
+    },
+    {
+        "id": "S07E19_000153",
+        "character": "Ross",
+        "text": "Uh-huh. Yeah, I-I have a knack for impressions.",
+        "duration": 2.6259999999999764,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000153.wav",
+        "character-id": 1,
+        "text-clean": "Uh-huh. Yeah, I-I have a knack for impressions."
+    },
+    {
+        "id": "S07E20_000211",
+        "character": "Monica",
+        "text": "(defeated) Oh.",
+        "duration": 1.16599999999994,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000211.wav",
+        "character-id": 4,
+        "text-clean": " Oh."
+    },
+    {
+        "id": "S07E17_000132",
+        "character": "Chandler",
+        "text": "So this is nice! I wish I didn't have to go, believe me! But unfortunately I have to. (He gets up and Joey moves over next to Ross.) Oh uh, by the way, what's the name of the girl you're dating?",
+        "duration": 13.178999999999974,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000132.wav",
+        "character-id": 3,
+        "text-clean": "So this is nice! I wish I didn't have to go, believe me! But unfortunately I have to.  Oh uh, by the way, what's the name of the girl you're dating?"
+    },
+    {
+        "id": "S07E16_000181",
+        "character": "Joey",
+        "text": "All right, here you go buddy. (He tosses him one.) Go nuts. (Exits.)",
+        "duration": 5.379000000000019,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000181.wav",
+        "character-id": 2,
+        "text-clean": "All right, here you go buddy.  Go nuts. "
+    },
+    {
+        "id": "S07E16_000133",
+        "character": "Joey",
+        "text": "Yeah!! I call that London style.",
+        "duration": 8.006999999999948,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000133.wav",
+        "character-id": 2,
+        "text-clean": "Yeah!! I call that London style."
+    },
+    {
+        "id": "S07E15_000149",
+        "character": "Tom",
+        "text": "No that's my assistant.",
+        "duration": 3.1269999999999527,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000149.wav",
+        "character-id": 70,
+        "text-clean": "No that's my assistant."
+    },
+    {
+        "id": "S07E20_000045",
+        "character": "Joey",
+        "text": "Hey Rach. (Stares at her.)",
+        "duration": 1.7090000000000032,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000045.wav",
+        "character-id": 2,
+        "text-clean": "Hey Rach. "
+    },
+    {
+        "id": "S07E22_000096",
+        "character": "Joey",
+        "text": "Oh. (Laughs.) No! No wait, that's weird!",
+        "duration": 2.4180000000000064,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000096.wav",
+        "character-id": 2,
+        "text-clean": "Oh.  No! No wait, that's weird!"
+    },
+    {
+        "id": "S07E17_000102",
+        "character": "Woman",
+        "text": "Hey!",
+        "duration": 1.7090000000000032,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000102.wav",
+        "character-id": 7,
+        "text-clean": "Hey!"
+    },
+    {
+        "id": "S07E17_000081",
+        "character": "Rachel",
+        "text": "(To Phoebe) So this is Brooklyn.",
+        "duration": 4.504000000000019,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000081.wav",
+        "character-id": 6,
+        "text-clean": " So this is Brooklyn."
+    },
+    {
+        "id": "S07E21_000024",
+        "character": "Ross",
+        "text": "...everyone, this is Chandler!",
+        "duration": 2.5430000000000064,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000024.wav",
+        "character-id": 1,
+        "text-clean": "...everyone, this is Chandler!"
+    },
+    {
+        "id": "S07E18_000192",
+        "character": "Ross",
+        "text": "Uh-hmm, yeah-yeah do you like it? Do-do you looove it? I just want you to know that I'm changing your grade back.",
+        "duration": 9.509000000000015,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000192.wav",
+        "character-id": 1,
+        "text-clean": "Uh-hmm, yeah-yeah do you like it? Do-do you looove it? I just want you to know that I'm changing your grade back."
+    },
+    {
+        "id": "S07E14_000135",
+        "character": "Joey",
+        "text": "Will you quit hoggin' it!",
+        "duration": 2.00100000000009,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000135.wav",
+        "character-id": 2,
+        "text-clean": "Will you quit hoggin' it!"
+    },
+    {
+        "id": "S07E15_000196",
+        "character": "Rachel",
+        "text": "(giggles) (To Ross) I can imagine you in a short plaid skirt and knee socks.",
+        "duration": 32.44899999999984,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000196.wav",
+        "character-id": 6,
+        "text-clean": "  I can imagine you in a short plaid skirt and knee socks."
+    },
+    {
+        "id": "S07E21_000027",
+        "character": "Rachel",
+        "text": "Okay. Okay. Okay. Umm, maybe you can start with, \"Chandler, even though we were friends; there was a part of me that always knew I wanted more.\"",
+        "duration": 10.051000000000016,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000027.wav",
+        "character-id": 6,
+        "text-clean": "Okay. Okay. Okay. Umm, maybe you can start with, \"Chandler, even though we were friends; there was a part of me that always knew I wanted more.\""
+    },
+    {
+        "id": "S07E17_000149",
+        "character": "Joey",
+        "text": "Yeah. Uh, (thinks) a slice (Thinks) six dollars?",
+        "duration": 13.346000000000004,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000149.wav",
+        "character-id": 2,
+        "text-clean": "Yeah. Uh,  a slice  six dollars?"
+    },
+    {
+        "id": "S07E17_000227",
+        "character": "Joey",
+        "text": "Fine! Have you ever got stuck in a pair of your own leather pants?!",
+        "duration": 2.8769999999999527,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000227.wav",
+        "character-id": 2,
+        "text-clean": "Fine! Have you ever got stuck in a pair of your own leather pants?!"
+    },
+    {
+        "id": "S07E14_000101",
+        "character": "Phoebe",
+        "text": "Yay! I love drunk Monica!",
+        "duration": 2.2100000000000364,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000101.wav",
+        "character-id": 5,
+        "text-clean": "Yay! I love drunk Monica!"
+    },
+    {
+        "id": "S07E14_000082",
+        "character": "Ursula",
+        "text": "Yea-huh! That's what is says on my birth certificate.",
+        "duration": 2.5019999999999527,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000082.wav",
+        "character-id": 64,
+        "text-clean": "Yea-huh! That's what is says on my birth certificate."
+    },
+    {
+        "id": "S07E18_000170",
+        "character": "Joey",
+        "text": "Uh listen, here's your Soapie. I accepted it for ya. (Hands it to her.)",
+        "duration": 2.9179999999998927,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000170.wav",
+        "character-id": 2,
+        "text-clean": "Uh listen, here's your Soapie. I accepted it for ya. "
+    },
+    {
+        "id": "S07E16_000147",
+        "character": "Monica",
+        "text": "Really?",
+        "duration": 1.04200000000003,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000147.wav",
+        "character-id": 4,
+        "text-clean": "Really?"
+    },
+    {
+        "id": "S07E20_000167",
+        "character": "Chandler",
+        "text": "Batman has Robin! (Pause) We get ESPN right?",
+        "duration": 12.052999999999884,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000167.wav",
+        "character-id": 3,
+        "text-clean": "Batman has Robin!  We get ESPN right?"
+    },
+    {
+        "id": "S07E14_000057",
+        "character": "Chandler",
+        "text": "Hey-hey are you drunk?",
+        "duration": 2.2099999999999795,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000057.wav",
+        "character-id": 3,
+        "text-clean": "Hey-hey are you drunk?"
+    },
+    {
+        "id": "S07E18_000154",
+        "character": "Phoebe",
+        "text": "All right, I've never been engaged and I've never really been married, but I can only tell you what my mother told me. Whenever you have doubts or fears or anxieties about a relationship, do not communicate them to your husband.",
+        "duration": 10.009000000000015,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000154.wav",
+        "character-id": 5,
+        "text-clean": "All right, I've never been engaged and I've never really been married, but I can only tell you what my mother told me. Whenever you have doubts or fears or anxieties about a relationship, do not communicate them to your husband."
+    },
+    {
+        "id": "S07E18_000092",
+        "character": "Phoebe",
+        "text": "Bye! (Phoebe goes over and joins Monica on the couch.) We said good-bye at the door so as not to flaunt our new love.",
+        "duration": 13.178999999999974,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000092.wav",
+        "character-id": 5,
+        "text-clean": "Bye!  We said good-bye at the door so as not to flaunt our new love."
+    },
+    {
+        "id": "S07E20_000025",
+        "character": "Rachel",
+        "text": "Okay! (Joins the rest of the gang.)",
+        "duration": 2.9609999999999985,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000025.wav",
+        "character-id": 6,
+        "text-clean": "Okay! "
+    },
+    {
+        "id": "S07E23_000016",
+        "character": "Chandler",
+        "text": "But you're still my friend?",
+        "duration": 3.4609999999999985,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000016.wav",
+        "character-id": 3,
+        "text-clean": "But you're still my friend?"
+    },
+    {
+        "id": "S07E19_000098",
+        "character": "Joey",
+        "text": "Uh so, will-will I be reading the same scene again?",
+        "duration": 3.0860000000000127,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000098.wav",
+        "character-id": 2,
+        "text-clean": "Uh so, will-will I be reading the same scene again?"
+    },
+    {
+        "id": "S07E23_000257",
+        "character": "Rachel",
+        "text": "Anastassakis/Papasifakis wedding, excellent! {It's a good thing Jennifer Aniston is Greek, because she had to pronounce those names. Luckily for me, they were written on a sign.}(The happy couple emerges.) Congratulations. (To the best man and maid of honor) Mazel Tov! (The rabbi emerges.) Hi! Oh, great hat. (He's wearing an interesting hat and she takes him over to talk.) Listen umm, I need you to perform another wedding. Can you do that?",
+        "duration": 2.66800000000012,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000257.wav",
+        "character-id": 6,
+        "text-clean": "Anastassakis/Papasifakis wedding, excellent! {It's a good thing Jennifer Aniston is Greek, because she had to pronounce those names. Luckily for me, they were written on a sign.} Congratulations.  Mazel Tov!  Hi! Oh, great hat.  Listen umm, I need you to perform another wedding. Can you do that?"
+    },
+    {
+        "id": "S07E13_000126",
+        "character": "Rachel",
+        "text": "Yeah! You can hook it up to your TV and you get radio!",
+        "duration": 4.086000000000013,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000126.wav",
+        "character-id": 6,
+        "text-clean": "Yeah! You can hook it up to your TV and you get radio!"
+    },
+    {
+        "id": "S07E23_000189",
+        "character": "Mrs. Geller",
+        "text": "I certainly see why the girls like coming here.",
+        "duration": 3.6690000000000964,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000189.wav",
+        "character-id": 8,
+        "text-clean": "I certainly see why the girls like coming here."
+    },
+    {
+        "id": "S07E13_000027",
+        "character": "Joey",
+        "text": "(slowly turning and glaring at her) She's not even cold yet!",
+        "duration": 2.460000000000008,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000027.wav",
+        "character-id": 2,
+        "text-clean": " She's not even cold yet!"
+    },
+    {
+        "id": "S07E16_000061",
+        "character": "Chandler",
+        "text": "No, but Horny for Monica Minister called, wanting to know if we were still together.",
+        "duration": 6.463999999999999,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000061.wav",
+        "character-id": 3,
+        "text-clean": "No, but Horny for Monica Minister called, wanting to know if we were still together."
+    },
+    {
+        "id": "S07E16_000032",
+        "character": "Monica",
+        "text": "All right, what about the third guy?",
+        "duration": 3.044000000000011,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000032.wav",
+        "character-id": 4,
+        "text-clean": "All right, what about the third guy?"
+    },
+    {
+        "id": "S07E21_000014",
+        "character": "Phoebe",
+        "text": "What?!",
+        "duration": 1.8340000000000032,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000014.wav",
+        "character-id": 5,
+        "text-clean": "What?!"
+    },
+    {
+        "id": "S07E22_000184",
+        "character": "Monica",
+        "text": "Can we have our drinks please?! Waiter\u00c2\u2014Uh, tress!",
+        "duration": 4.211999999999989,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000184.wav",
+        "character-id": 4,
+        "text-clean": "Can we have our drinks please?! Waiter\u00c2\u2014Uh, tress!"
+    },
+    {
+        "id": "S07E19_000088",
+        "character": "Ross",
+        "text": "What\u00c2\u2014why?",
+        "duration": 2.6270000000000095,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000088.wav",
+        "character-id": 1,
+        "text-clean": "What\u00c2\u2014why?"
+    },
+    {
+        "id": "S07E19_000215",
+        "character": "Rachel",
+        "text": "Yeah, we wanted to throw you a big surprise and a great shower, and now you don't have either.",
+        "duration": 6.423000000000002,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000215.wav",
+        "character-id": 6,
+        "text-clean": "Yeah, we wanted to throw you a big surprise and a great shower, and now you don't have either."
+    },
+    {
+        "id": "S07E15_000207",
+        "character": "Lisa Kudrow",
+        "text": "Do it again!",
+        "duration": 1.1669999999999163,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000207.wav",
+        "character-id": 72,
+        "text-clean": "Do it again!"
+    },
+    {
+        "id": "S07E14_000092",
+        "character": "Phoebe",
+        "text": "That's my first name.",
+        "duration": 3.794999999999959,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000092.wav",
+        "character-id": 5,
+        "text-clean": "That's my first name."
+    },
+    {
+        "id": "S07E22_000006",
+        "character": "Monica",
+        "text": "Whatever Ross! Just replace the bulbs in the brake lights after you're done.",
+        "duration": 4.170000000000002,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000006.wav",
+        "character-id": 4,
+        "text-clean": "Whatever Ross! Just replace the bulbs in the brake lights after you're done."
+    },
+    {
+        "id": "S07E23_000255",
+        "character": "Rachel",
+        "text": "Joey! The wedding is in less than an hour!",
+        "duration": 2.66800000000012,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000255.wav",
+        "character-id": 6,
+        "text-clean": "Joey! The wedding is in less than an hour!"
+    },
+    {
+        "id": "S07E13_000188",
+        "character": "Phoebe",
+        "text": "Yes.",
+        "duration": 1.6260000000002037,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000188.wav",
+        "character-id": 5,
+        "text-clean": "Yes."
+    },
+    {
+        "id": "S07E22_000149",
+        "character": "Policeman",
+        "text": "You're an Aquarius, huh?",
+        "duration": 3.1269999999999527,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000149.wav",
+        "character-id": 93,
+        "text-clean": "You're an Aquarius, huh?"
+    },
+    {
+        "id": "S07E18_000188",
+        "character": "Monica",
+        "text": "Come here! Come here! (They hug.) Sweetie you don't have to worry. No, besides y'know what? I'm gonna have a lot of new things with you. The first time we buy a house. Our first kid. Our first grandkid",
+        "duration": 13.221000000000004,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000188.wav",
+        "character-id": 4,
+        "text-clean": "Come here! Come here!  Sweetie you don't have to worry. No, besides y'know what? I'm gonna have a lot of new things with you. The first time we buy a house. Our first kid. Our first grandkid"
+    },
+    {
+        "id": "S07E22_000101",
+        "character": "Phoebe",
+        "text": "And! Y'know what Jake says? That women's underwear is actually more comfortable. And he loves the way the silk feels against his skin.",
+        "duration": 7.423000000000002,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000101.wav",
+        "character-id": 5,
+        "text-clean": "And! Y'know what Jake says? That women's underwear is actually more comfortable. And he loves the way the silk feels against his skin."
+    },
+    {
+        "id": "S07E14_000131",
+        "character": "Monica",
+        "text": "Really! That long?! (Chandler slowly turns and looks at her.) (To Chandler) Look all you want, it's happening!",
+        "duration": 9.717000000000098,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000131.wav",
+        "character-id": 4,
+        "text-clean": "Really! That long?!   Look all you want, it's happening!"
+    },
+    {
+        "id": "S07E16_000231",
+        "character": "Joey",
+        "text": "Well I don't know if I remember exactly but, it's-it's pretty much about having and giving and sharing and receiving.",
+        "duration": 9.259000000000015,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000231.wav",
+        "character-id": 2,
+        "text-clean": "Well I don't know if I remember exactly but, it's-it's pretty much about having and giving and sharing and receiving."
+    },
+    {
+        "id": "S07E23_000073",
+        "character": "Joey",
+        "text": "(glances at Richard) No. Nope, I uh I th\u00c2\u2014I thought it might be kind of a cool character thing. Y'know? He's uh, he's a face toucher. (Behind his back, Richard is nodding no.)",
+        "duration": 9.550000000000011,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000073.wav",
+        "character-id": 2,
+        "text-clean": " No. Nope, I uh I th\u00c2\u2014I thought it might be kind of a cool character thing. Y'know? He's uh, he's a face toucher. "
+    },
+    {
+        "id": "S07E17_000084",
+        "character": "Monica",
+        "text": "All right.",
+        "duration": 1.91700000000003,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000084.wav",
+        "character-id": 4,
+        "text-clean": "All right."
+    },
+    {
+        "id": "S07E13_000158",
+        "character": "Chandler",
+        "text": "(excitedly) Are you telling me that you bought the chair that is making all other lounge systems obsolete? The chair that Sit magazine called the Chair of the Year?",
+        "duration": 9.884000000000015,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000158.wav",
+        "character-id": 3,
+        "text-clean": " Are you telling me that you bought the chair that is making all other lounge systems obsolete? The chair that Sit magazine called the Chair of the Year?"
+    },
+    {
+        "id": "S07E13_000178",
+        "character": "Phoebe",
+        "text": "(goes over to his desk) Earl! I'm Phoebe.",
+        "duration": 6.1720000000000255,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000178.wav",
+        "character-id": 5,
+        "text-clean": " Earl! I'm Phoebe."
+    },
+    {
+        "id": "S07E18_000046",
+        "character": "Rachel",
+        "text": "What? No! It's not a big deal! I do that too, with my shampoo bottle.",
+        "duration": 3.0020000000000095,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000046.wav",
+        "character-id": 6,
+        "text-clean": "What? No! It's not a big deal! I do that too, with my shampoo bottle."
+    },
+    {
+        "id": "S07E19_000083",
+        "character": "Monica",
+        "text": "So, are you ready to go?",
+        "duration": 2.5429999999999495,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000083.wav",
+        "character-id": 4,
+        "text-clean": "So, are you ready to go?"
+    },
+    {
+        "id": "S07E18_000066",
+        "character": "Monica",
+        "text": "Okay, stop it Phoebe, you're getting me all tingly.",
+        "duration": 2.0430000000000064,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000066.wav",
+        "character-id": 4,
+        "text-clean": "Okay, stop it Phoebe, you're getting me all tingly."
+    },
+    {
+        "id": "S07E23_000082",
+        "character": "Chandler",
+        "text": "Well you don't have to sound so surprised.",
+        "duration": 4.128000000000043,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000082.wav",
+        "character-id": 3,
+        "text-clean": "Well you don't have to sound so surprised."
+    },
+    {
+        "id": "S07E17_000060",
+        "character": "Rachel",
+        "text": "So, does this (the dress) come in another color or (The store owner walks away.)",
+        "duration": 3.5030000000000427,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000060.wav",
+        "character-id": 6,
+        "text-clean": "So, does this  come in another color or "
+    },
+    {
+        "id": "S07E15_000017",
+        "character": "Chandler",
+        "text": "That's great!",
+        "duration": 1.6679999999999993,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000017.wav",
+        "character-id": 3,
+        "text-clean": "That's great!"
+    },
+    {
+        "id": "S07E21_000107",
+        "character": "Joey",
+        "text": "How?! When?!",
+        "duration": 1.87600000000009,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000107.wav",
+        "character-id": 2,
+        "text-clean": "How?! When?!"
+    },
+    {
+        "id": "S07E24_000052",
+        "character": "Chandler",
+        "text": "What are you guys doing?",
+        "duration": 2.7099999999999795,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000052.wav",
+        "character-id": 3,
+        "text-clean": "What are you guys doing?"
+    },
+    {
+        "id": "S07E22_000051",
+        "character": "Ross",
+        "text": "With you?! Yeah right!",
+        "duration": 1.7100000000000364,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000051.wav",
+        "character-id": 1,
+        "text-clean": "With you?! Yeah right!"
+    },
+    {
+        "id": "S07E14_000104",
+        "character": "Phoebe",
+        "text": "Ohh! All right! All right. Here's what we'll do, I'll get twice as drunk as Monica and then no one will even notice her.",
+        "duration": 7.173000000000002,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000104.wav",
+        "character-id": 5,
+        "text-clean": "Ohh! All right! All right. Here's what we'll do, I'll get twice as drunk as Monica and then no one will even notice her."
+    },
+    {
+        "id": "S07E21_000030",
+        "character": "Phoebe",
+        "text": "Well maybe you don't talk about your feelings back then. Maybe you just say something about, y'know, all the things that he's taught you. Like (They all try to think about one example and don't succeed.) Or all the things you taught him.",
+        "duration": 16.09899999999999,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000030.wav",
+        "character-id": 5,
+        "text-clean": "Well maybe you don't talk about your feelings back then. Maybe you just say something about, y'know, all the things that he's taught you. Like  Or all the things you taught him."
+    },
+    {
+        "id": "S07E15_000114",
+        "character": "Phoebe",
+        "text": "(on phone) Hello? (Listens) Yes, I'm the one who found your phone.",
+        "duration": 3.0019999999999527,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000114.wav",
+        "character-id": 5,
+        "text-clean": " Hello?  Yes, I'm the one who found your phone."
+    },
+    {
+        "id": "S07E20_000136",
+        "character": "Joey",
+        "text": "Yeah, they're not coming.",
+        "duration": 2.0839999999999463,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000136.wav",
+        "character-id": 2,
+        "text-clean": "Yeah, they're not coming."
+    },
+    {
+        "id": "S07E21_000207",
+        "character": "Phoebe",
+        "text": "Hey.",
+        "duration": 1.0419999999999163,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000207.wav",
+        "character-id": 5,
+        "text-clean": "Hey."
+    },
+    {
+        "id": "S07E15_000155",
+        "character": "Phoebe",
+        "text": "Wh-what do we do?",
+        "duration": 3.6280000000000427,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000155.wav",
+        "character-id": 5,
+        "text-clean": "Wh-what do we do?"
+    },
+    {
+        "id": "S07E20_000072",
+        "character": "Chandler",
+        "text": "Okay, who wore those? (Points to the tuxedos.)",
+        "duration": 1.4590000000000032,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000072.wav",
+        "character-id": 3,
+        "text-clean": "Okay, who wore those? "
+    },
+    {
+        "id": "S07E15_000176",
+        "character": "Cecilia",
+        "text": "I'd love to, but my lawyer said I can't do that anymore.",
+        "duration": 3.1269999999999527,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000176.wav",
+        "character-id": 69,
+        "text-clean": "I'd love to, but my lawyer said I can't do that anymore."
+    },
+    {
+        "id": "S07E16_000168",
+        "character": "Chandler",
+        "text": "Well I think it's safe to say that our friendship is effectively ruined.",
+        "duration": 3.919999999999959,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000168.wav",
+        "character-id": 3,
+        "text-clean": "Well I think it's safe to say that our friendship is effectively ruined."
+    },
+    {
+        "id": "S07E18_000073",
+        "character": "Phoebe",
+        "text": "You sound like a guy.",
+        "duration": 4.420000000000016,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000073.wav",
+        "character-id": 5,
+        "text-clean": "You sound like a guy."
+    },
+    {
+        "id": "S07E20_000222",
+        "character": "Rachel",
+        "text": "(moves away again) I-I-I-I'm just I'm just a good kisser!",
+        "duration": 3.2100000000000364,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000222.wav",
+        "character-id": 6,
+        "text-clean": " I-I-I-I'm just I'm just a good kisser!"
+    },
+    {
+        "id": "S07E22_000246",
+        "character": "Woman",
+        "text": "Wow!",
+        "duration": 3.8780000000001564,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000246.wav",
+        "character-id": 7,
+        "text-clean": "Wow!"
+    },
+    {
+        "id": "S07E17_000128",
+        "character": "Ross",
+        "text": "Oh great! We're going out again Saturday. But I just found she's also seeing some other guy.",
+        "duration": 7.130999999999972,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000128.wav",
+        "character-id": 1,
+        "text-clean": "Oh great! We're going out again Saturday. But I just found she's also seeing some other guy."
+    },
+    {
+        "id": "S07E23_000005",
+        "character": "Monica",
+        "text": "That's much better.",
+        "duration": 2.501999999999999,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000005.wav",
+        "character-id": 4,
+        "text-clean": "That's much better."
+    },
+    {
+        "id": "S07E21_000116",
+        "character": "Monica",
+        "text": "(on phone) Awww, y'know what your nickname is, Mr. Big",
+        "duration": 4.294999999999959,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000116.wav",
+        "character-id": 4,
+        "text-clean": " Awww, y'know what your nickname is, Mr. Big"
+    },
+    {
+        "id": "S07E14_000185",
+        "character": "Tag",
+        "text": "Hey.",
+        "duration": 1.0830000000000837,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000185.wav",
+        "character-id": 17,
+        "text-clean": "Hey."
+    },
+    {
+        "id": "S07E13_000022",
+        "character": "Monica",
+        "text": "I can't believe mom and dad are selling the house!",
+        "duration": 2.0010000000000048,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000022.wav",
+        "character-id": 4,
+        "text-clean": "I can't believe mom and dad are selling the house!"
+    },
+    {
+        "id": "S07E13_000170",
+        "character": "Chandler",
+        "text": "Joey you broke my chair!!",
+        "duration": 1.75,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000170.wav",
+        "character-id": 3,
+        "text-clean": "Joey you broke my chair!!"
+    },
+    {
+        "id": "S07E20_000235",
+        "character": "Chandler",
+        "text": "Whose is it?",
+        "duration": 3.209999999999809,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000235.wav",
+        "character-id": 3,
+        "text-clean": "Whose is it?"
+    },
+    {
+        "id": "S07E18_000171",
+        "character": "Jessica Ashley",
+        "text": "(shocked) Oh my God! I won! Do you have any idea what this means?! (She rolls her eyes and throws it onto the couch.)",
+        "duration": 4.002999999999929,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000171.wav",
+        "character-id": 84,
+        "text-clean": " Oh my God! I won! Do you have any idea what this means?! "
+    },
+    {
+        "id": "S07E23_000030",
+        "character": "Monica",
+        "text": "I had to go with the odds Rach.",
+        "duration": 1.9170000000000016,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000030.wav",
+        "character-id": 4,
+        "text-clean": "I had to go with the odds Rach."
+    },
+    {
+        "id": "S07E16_000216",
+        "character": "Rachel",
+        "text": "Fine. Fine, but I'll have you know that once I taught him that stuff he called me Fun Aunt Rachel. And I loved being Fun Aunt Rachel but I'll go back to being Boring and Uncomfortable Aunt Rachel if that's what you want!",
+        "duration": 8.007000000000062,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000216.wav",
+        "character-id": 6,
+        "text-clean": "Fine. Fine, but I'll have you know that once I taught him that stuff he called me Fun Aunt Rachel. And I loved being Fun Aunt Rachel but I'll go back to being Boring and Uncomfortable Aunt Rachel if that's what you want!"
+    },
+    {
+        "id": "S07E22_000230",
+        "character": "Ross",
+        "text": "Ah no. I don't, but it could not have been more than sixty.",
+        "duration": 3.793999999999869,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000230.wav",
+        "character-id": 1,
+        "text-clean": "Ah no. I don't, but it could not have been more than sixty."
+    },
+    {
+        "id": "S07E17_000073",
+        "character": "Kristen",
+        "text": "I'll remember that.",
+        "duration": 1.4580000000000268,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000073.wav",
+        "character-id": 75,
+        "text-clean": "I'll remember that."
+    },
+    {
+        "id": "S07E18_000141",
+        "character": "Ross",
+        "text": "What?",
+        "duration": 2.1680000000000064,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000141.wav",
+        "character-id": 1,
+        "text-clean": "What?"
+    },
+    {
+        "id": "S07E22_000029",
+        "character": "Rachel",
+        "text": "Well no brush!",
+        "duration": 1.5840000000000032,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000029.wav",
+        "character-id": 6,
+        "text-clean": "Well no brush!"
+    },
+    {
+        "id": "S07E16_000162",
+        "character": "Monica",
+        "text": "Wow! You are really fast!",
+        "duration": 1.6259999999999764,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000162.wav",
+        "character-id": 4,
+        "text-clean": "Wow! You are really fast!"
+    },
+    {
+        "id": "S07E13_000147",
+        "character": "Monica",
+        "text": "So why-why wasn't Ross's stuff ruined? (Pause) And if you say the words medical marvel I'm going to Easy Bake your head!",
+        "duration": 3.1269999999999527,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000147.wav",
+        "character-id": 4,
+        "text-clean": "So why-why wasn't Ross's stuff ruined?  And if you say the words medical marvel I'm going to Easy Bake your head!"
+    },
+    {
+        "id": "S07E14_000133",
+        "character": "Ross",
+        "text": "Which is fine! Because you just turned\u00c2\u2014(Removes two candles from the cake)\u00c2\u2014twenty-eight!",
+        "duration": 4.003000000000043,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000133.wav",
+        "character-id": 1,
+        "text-clean": "Which is fine! Because you just turned\u00c2\u2014\u00c2\u2014twenty-eight!"
+    },
+    {
+        "id": "S07E23_000039",
+        "character": "Joey",
+        "text": "Yes!!",
+        "duration": 1.7920000000000016,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000039.wav",
+        "character-id": 2,
+        "text-clean": "Yes!!"
+    },
+    {
+        "id": "S07E20_000142",
+        "character": "Joey",
+        "text": "Come on! Look just-just tell\u00c2\u2014let her know that you really want them to be there. Let's not forget, this is a woman that has sent you many lasagnas over the years.",
+        "duration": 5.753999999999905,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000142.wav",
+        "character-id": 2,
+        "text-clean": "Come on! Look just-just tell\u00c2\u2014let her know that you really want them to be there. Let's not forget, this is a woman that has sent you many lasagnas over the years."
+    },
+    {
+        "id": "S07E23_000199",
+        "character": "Richard",
+        "text": "Why do have a picture of Paulette in your pack?!",
+        "duration": 3.5030000000001564,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000199.wav",
+        "character-id": 97,
+        "text-clean": "Why do have a picture of Paulette in your pack?!"
+    },
+    {
+        "id": "S07E23_000028",
+        "character": "Monica",
+        "text": "Well, so far I have uh, my bridesmaids' dresses won't get picked up, my veil gets lost, or I don't have my something blue.",
+        "duration": 8.049000000000007,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000028.wav",
+        "character-id": 4,
+        "text-clean": "Well, so far I have uh, my bridesmaids' dresses won't get picked up, my veil gets lost, or I don't have my something blue."
+    },
+    {
+        "id": "S07E19_000146",
+        "character": "Ross",
+        "text": "Hey!",
+        "duration": 2.50100000000009,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000146.wav",
+        "character-id": 1,
+        "text-clean": "Hey!"
+    },
+    {
+        "id": "S07E15_000201",
+        "character": "Ross",
+        "text": "So?",
+        "duration": 1.2079999999998563,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000201.wav",
+        "character-id": 1,
+        "text-clean": "So?"
+    },
+    {
+        "id": "S07E23_000138",
+        "character": "Monica",
+        "text": "Okay. Sorry. (Monica goes into the bathroom.)",
+        "duration": 3.0439999999999827,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000138.wav",
+        "character-id": 4,
+        "text-clean": "Okay. Sorry. "
+    },
+    {
+        "id": "S07E23_000071",
+        "character": "Richard",
+        "text": "No, we still have food in the basement! I saw potatoes and some dry pasta!",
+        "duration": 3.7520000000000095,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000071.wav",
+        "character-id": 97,
+        "text-clean": "No, we still have food in the basement! I saw potatoes and some dry pasta!"
+    },
+    {
+        "id": "S07E22_000076",
+        "character": "Monica",
+        "text": "It's your suitcase. We're going to Las Vegas.",
+        "duration": 3.5439999999999827,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000076.wav",
+        "character-id": 4,
+        "text-clean": "It's your suitcase. We're going to Las Vegas."
+    },
+    {
+        "id": "S07E22_000012",
+        "character": "Monica",
+        "text": "Nice work everybody! So much for the y'know, \"You can drive it, but don't tell Rachel\" plan!",
+        "duration": 4.128,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000012.wav",
+        "character-id": 4,
+        "text-clean": "Nice work everybody! So much for the y'know, \"You can drive it, but don't tell Rachel\" plan!"
+    },
+    {
+        "id": "S07E20_000087",
+        "character": "Joey",
+        "text": "Hey!",
+        "duration": 1.79200000000003,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000087.wav",
+        "character-id": 2,
+        "text-clean": "Hey!"
+    },
+    {
+        "id": "S07E22_000132",
+        "character": "Rachel",
+        "text": "Oh come on Ross!! (She tries to switch places with him and goes under his leg.)",
+        "duration": 4.586999999999989,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000132.wav",
+        "character-id": 6,
+        "text-clean": "Oh come on Ross!! "
+    },
+    {
+        "id": "S07E23_000025",
+        "character": "Rachel",
+        "text": "What\u00c2\u2018cha doing Mon?",
+        "duration": 1.4589999999999748,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000025.wav",
+        "character-id": 6,
+        "text-clean": "What\u00c2\u2018cha doing Mon?"
+    },
+    {
+        "id": "S07E16_000233",
+        "character": "Rachel",
+        "text": "Hey!",
+        "duration": 1.2919999999999163,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000233.wav",
+        "character-id": 6,
+        "text-clean": "Hey!"
+    },
+    {
+        "id": "S07E19_000076",
+        "character": "Chandler",
+        "text": "That's me! Come on!",
+        "duration": 1.3340000000000032,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000076.wav",
+        "character-id": 3,
+        "text-clean": "That's me! Come on!"
+    },
+    {
+        "id": "S07E16_000080",
+        "character": "Rachel",
+        "text": "Oh that.",
+        "duration": 2.334000000000003,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000080.wav",
+        "character-id": 6,
+        "text-clean": "Oh that."
+    },
+    {
+        "id": "S07E19_000016",
+        "character": "Joey",
+        "text": "They want me to be totally naked in the movie!",
+        "duration": 3.7109999999999985,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000016.wav",
+        "character-id": 2,
+        "text-clean": "They want me to be totally naked in the movie!"
+    },
+    {
+        "id": "S07E16_000225",
+        "character": "Joey",
+        "text": "Yeah for like a half an hour one night! Chandler, she wants you for the rest of her life! You're so lucky! Look what I missed out on by not being there! Although you know what? It could never have worked like you guys did, \u00c2\u2018cause you guys are perfect for each other. Y'know, we look at you and-and we see you together and it just it-it fits. Y'know? And you just know it's gonna last forever.",
+        "duration": 18.93399999999997,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000225.wav",
+        "character-id": 2,
+        "text-clean": "Yeah for like a half an hour one night! Chandler, she wants you for the rest of her life! You're so lucky! Look what I missed out on by not being there! Although you know what? It could never have worked like you guys did, \u00c2\u2018cause you guys are perfect for each other. Y'know, we look at you and-and we see you together and it just it-it fits. Y'know? And you just know it's gonna last forever."
+    },
+    {
+        "id": "S07E20_000168",
+        "character": "Monica",
+        "text": "How about you go put on your 007 tuxedo and I'll make you a nice martini.",
+        "duration": 5.212999999999965,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000168.wav",
+        "character-id": 4,
+        "text-clean": "How about you go put on your 007 tuxedo and I'll make you a nice martini."
+    },
+    {
+        "id": "S07E17_000202",
+        "character": "Joey",
+        "text": "(entering) Kristen?",
+        "duration": 2.3759999999999764,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000202.wav",
+        "character-id": 2,
+        "text-clean": " Kristen?"
+    },
+    {
+        "id": "S07E19_000204",
+        "character": "Joey",
+        "text": "The Silly Putty! It's not so silly anymore!",
+        "duration": 2.7519999999999527,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000204.wav",
+        "character-id": 2,
+        "text-clean": "The Silly Putty! It's not so silly anymore!"
+    },
+    {
+        "id": "S07E14_000202",
+        "character": "Rachel",
+        "text": "Oh, if I only want two kids, can I keep him for another year?",
+        "duration": 4.503999999999905,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000202.wav",
+        "character-id": 6,
+        "text-clean": "Oh, if I only want two kids, can I keep him for another year?"
+    },
+    {
+        "id": "S07E17_000105",
+        "character": "Rachel",
+        "text": "No! You gotta get me out of here Phoebe! These bargain shoppers are crazy!",
+        "duration": 2.7939999999999827,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000105.wav",
+        "character-id": 6,
+        "text-clean": "No! You gotta get me out of here Phoebe! These bargain shoppers are crazy!"
+    },
+    {
+        "id": "S07E17_000110",
+        "character": "Rachel",
+        "text": "(seeing who's trapped) Hey",
+        "duration": 1.7509999999999764,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000110.wav",
+        "character-id": 6,
+        "text-clean": " Hey"
+    },
+    {
+        "id": "S07E17_000228",
+        "character": "Ross",
+        "text": "Hey-hey have you ever locked yourself in a TV cabinet VD boy?!",
+        "duration": 5.420999999999822,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000228.wav",
+        "character-id": 1,
+        "text-clean": "Hey-hey have you ever locked yourself in a TV cabinet VD boy?!"
+    },
+    {
+        "id": "S07E22_000092",
+        "character": "Phoebe",
+        "text": "Hey!",
+        "duration": 1.66700000000003,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000092.wav",
+        "character-id": 5,
+        "text-clean": "Hey!"
+    },
+    {
+        "id": "S07E18_000137",
+        "character": "Ross",
+        "text": "No!",
+        "duration": 3.4610000000000127,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000137.wav",
+        "character-id": 1,
+        "text-clean": "No!"
+    },
+    {
+        "id": "S07E21_000199",
+        "character": "Chandler",
+        "text": "Who are those people?",
+        "duration": 2.5009999999999764,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000199.wav",
+        "character-id": 3,
+        "text-clean": "Who are those people?"
+    },
+    {
+        "id": "S07E19_000018",
+        "character": "Joey",
+        "text": "I know! My grandmother's gonna see this!",
+        "duration": 6.589000000000013,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000018.wav",
+        "character-id": 2,
+        "text-clean": "I know! My grandmother's gonna see this!"
+    },
+    {
+        "id": "S07E21_000086",
+        "character": "Phoebe",
+        "text": "Well let's just say its.. she's lucky she has a sweet ass, \u00c2\u2018cause she's not so good at the writing.",
+        "duration": 3.919999999999959,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000086.wav",
+        "character-id": 5,
+        "text-clean": "Well let's just say its.. she's lucky she has a sweet ass, \u00c2\u2018cause she's not so good at the writing."
+    },
+    {
+        "id": "S07E21_000158",
+        "character": "Phoebe",
+        "text": "God, they thought they can mess with us! They're trying to mess with us?! They don't know that we know they know we know! (Joey just shakes his head.) Joey, you can't say anything!",
+        "duration": 12.802999999999997,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000158.wav",
+        "character-id": 5,
+        "text-clean": "God, they thought they can mess with us! They're trying to mess with us?! They don't know that we know they know we know!  Joey, you can't say anything!"
+    },
+    {
+        "id": "S07E22_000209",
+        "character": "Monica",
+        "text": "(looks at Chandler) In in two weeks.",
+        "duration": 1.83400000000006,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000209.wav",
+        "character-id": 4,
+        "text-clean": " In in two weeks."
+    },
+    {
+        "id": "S07E15_000048",
+        "character": "Rachel",
+        "text": "Okay. Okay, see? I get the phone.",
+        "duration": 2.1260000000000048,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000048.wav",
+        "character-id": 6,
+        "text-clean": "Okay. Okay, see? I get the phone."
+    },
+    {
+        "id": "S07E17_000095",
+        "character": "Megan",
+        "text": "No!",
+        "duration": 2.7099999999999795,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000095.wav",
+        "character-id": 76,
+        "text-clean": "No!"
+    },
+    {
+        "id": "S07E17_000093",
+        "character": "Megan",
+        "text": "Yeah!",
+        "duration": 1.625,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000093.wav",
+        "character-id": 76,
+        "text-clean": "Yeah!"
+    },
+    {
+        "id": "S07E16_000056",
+        "character": "Rachel",
+        "text": "Yeah? You like that one?",
+        "duration": 1.8340000000000032,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000056.wav",
+        "character-id": 6,
+        "text-clean": "Yeah? You like that one?"
+    },
+    {
+        "id": "S07E17_000005",
+        "character": "Chandler",
+        "text": "Gap commercial. (To Monica) So did you book them? Did you call?",
+        "duration": 8.8,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000005.wav",
+        "character-id": 3,
+        "text-clean": "Gap commercial.  So did you book them? Did you call?"
+    },
+    {
+        "id": "S07E22_000250",
+        "character": "Waitress",
+        "text": "(to the woman) $4.50 please.",
+        "duration": 2.7929999999998927,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000250.wav",
+        "character-id": 95,
+        "text-clean": " $4.50 please."
+    },
+    {
+        "id": "S07E18_000198",
+        "character": "Rachel",
+        "text": "I'll be out in a second.",
+        "duration": 3.2519999999999527,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000198.wav",
+        "character-id": 6,
+        "text-clean": "I'll be out in a second."
+    },
+    {
+        "id": "S07E16_000036",
+        "character": "Monica",
+        "text": "Well then we still have a problem.",
+        "duration": 3.0020000000000095,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000036.wav",
+        "character-id": 4,
+        "text-clean": "Well then we still have a problem."
+    },
+    {
+        "id": "S07E18_000130",
+        "character": "Joey",
+        "text": "(opening his door) If I can't have it you can't have it! (Rachel walks away angrily.)",
+        "duration": 13.220000000000027,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000130.wav",
+        "character-id": 2,
+        "text-clean": " If I can't have it you can't have it! "
+    },
+    {
+        "id": "S07E14_000081",
+        "character": "Phoebe",
+        "text": "Nu-uh!",
+        "duration": 1.29200000000003,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000081.wav",
+        "character-id": 5,
+        "text-clean": "Nu-uh!"
+    },
+    {
+        "id": "S07E21_000101",
+        "character": "Chandler",
+        "text": "Hey Joe!",
+        "duration": 1.4589999999999463,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000101.wav",
+        "character-id": 3,
+        "text-clean": "Hey Joe!"
+    },
+    {
+        "id": "S07E15_000156",
+        "character": "Rachel",
+        "text": "I don't know!",
+        "duration": 3.6280000000000427,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000156.wav",
+        "character-id": 6,
+        "text-clean": "I don't know!"
+    },
+    {
+        "id": "S07E20_000161",
+        "character": "Chandler",
+        "text": "Rachel got Ross the tuxedo that Val Kilmer wore in Batman. Okay Batman is so much cooler than James Bond!",
+        "duration": 2.7099999999999227,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000161.wav",
+        "character-id": 3,
+        "text-clean": "Rachel got Ross the tuxedo that Val Kilmer wore in Batman. Okay Batman is so much cooler than James Bond!"
+    },
+    {
+        "id": "S07E20_000157",
+        "character": "Rachel",
+        "text": "we went back to the house and we got really silly and we we made out.",
+        "duration": 4.878000000000043,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000157.wav",
+        "character-id": 6,
+        "text-clean": "we went back to the house and we got really silly and we we made out."
+    },
+    {
+        "id": "S07E17_000175",
+        "character": "Joey",
+        "text": "Oh-oh! So that's the way it's gonna be huh? Yeah I can break the rules too y'know!",
+        "duration": 3.4189999999999827,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000175.wav",
+        "character-id": 2,
+        "text-clean": "Oh-oh! So that's the way it's gonna be huh? Yeah I can break the rules too y'know!"
+    },
+    {
+        "id": "S07E13_000191",
+        "character": "Earl",
+        "text": "Couldn't it just be a coincidence?",
+        "duration": 3.502999999999929,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000191.wav",
+        "character-id": 63,
+        "text-clean": "Couldn't it just be a coincidence?"
+    },
+    {
+        "id": "S07E24_000055",
+        "character": "Conan",
+        "text": "So that you will intentionally do something that\u00c2\u2014they'll-they'll intentionally screw it up?",
+        "duration": 293.292,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000055.wav",
+        "character-id": 103,
+        "text-clean": "So that you will intentionally do something that\u00c2\u2014they'll-they'll intentionally screw it up?"
+    },
+    {
+        "id": "S07E15_000100",
+        "character": "Rachel",
+        "text": "Umm Pheebs, remember when we were in the coffee house we decided that I was going to keep the uh, the cute guy's cell phone?",
+        "duration": 6.045999999999935,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000100.wav",
+        "character-id": 6,
+        "text-clean": "Umm Pheebs, remember when we were in the coffee house we decided that I was going to keep the uh, the cute guy's cell phone?"
+    },
+    {
+        "id": "S07E23_000060",
+        "character": "Richard",
+        "text": "No I didn't.",
+        "duration": 1.7090000000000032,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000060.wav",
+        "character-id": 97,
+        "text-clean": "No I didn't."
+    },
+    {
+        "id": "S07E16_000183",
+        "character": "Joey",
+        "text": "Oh (To Chandler) Can you imagine if I hadn't left you that last one? You two might've never gotten together. Ooh-ooh! Could you imagine if I sent that hooker up to the room like I was gonna?! It's like it was in the stars!",
+        "duration": 13.386999999999944,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000183.wav",
+        "character-id": 2,
+        "text-clean": "Oh  Can you imagine if I hadn't left you that last one? You two might've never gotten together. Ooh-ooh! Could you imagine if I sent that hooker up to the room like I was gonna?! It's like it was in the stars!"
+    },
+    {
+        "id": "S07E17_000195",
+        "character": "Chandler",
+        "text": "Well it's just while Monica and I were dancing to them it was the first time I knew that you were the woman I wanted to dance all my dances with.",
+        "duration": 12.720000000000027,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000195.wav",
+        "character-id": 3,
+        "text-clean": "Well it's just while Monica and I were dancing to them it was the first time I knew that you were the woman I wanted to dance all my dances with."
+    },
+    {
+        "id": "S07E19_000097",
+        "character": "The Casting Director",
+        "text": "Hi-hi Joey.",
+        "duration": 1.0830000000000268,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000097.wav",
+        "character-id": 87,
+        "text-clean": "Hi-hi Joey."
+    },
+    {
+        "id": "S07E20_000017",
+        "character": "Melissa",
+        "text": "Listen, we-we have to have dinner. What-what are you doing tomorrow night?",
+        "duration": 3.5860000000000127,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000017.wav",
+        "character-id": 23,
+        "text-clean": "Listen, we-we have to have dinner. What-what are you doing tomorrow night?"
+    },
+    {
+        "id": "S07E22_000247",
+        "character": "Joey",
+        "text": "Yeah.",
+        "duration": 3.8780000000001564,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000247.wav",
+        "character-id": 2,
+        "text-clean": "Yeah."
+    },
+    {
+        "id": "S07E17_000199",
+        "character": "Ross",
+        "text": "Yeah.",
+        "duration": 3.919999999999959,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000199.wav",
+        "character-id": 1,
+        "text-clean": "Yeah."
+    },
+    {
+        "id": "S07E18_000125",
+        "character": "Rachel",
+        "text": "Joey, no: this is wrong! You have to take it back, okay? You don't want to win an award this way. You're very talented. And someday you're gonna win one of these for real, and that one is gonna mean something.",
+        "duration": 12.637000000000057,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000125.wav",
+        "character-id": 6,
+        "text-clean": "Joey, no: this is wrong! You have to take it back, okay? You don't want to win an award this way. You're very talented. And someday you're gonna win one of these for real, and that one is gonna mean something."
+    },
+    {
+        "id": "S07E16_000016",
+        "character": "Rachel",
+        "text": "(nervous) So it would just be me alone?",
+        "duration": 3.503,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000016.wav",
+        "character-id": 6,
+        "text-clean": " So it would just be me alone?"
+    },
+    {
+        "id": "S07E19_000002",
+        "character": "Joey",
+        "text": "Nothing, I'm just practicing blowing you off because I'm gonna be a big movie star!",
+        "duration": 2.7520000000000007,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000002.wav",
+        "character-id": 2,
+        "text-clean": "Nothing, I'm just practicing blowing you off because I'm gonna be a big movie star!"
+    },
+    {
+        "id": "S07E20_000026",
+        "character": "Joey",
+        "text": "Hey guys! Look who's back! It's Ray-ray!",
+        "duration": 3.4609999999999843,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000026.wav",
+        "character-id": 2,
+        "text-clean": "Hey guys! Look who's back! It's Ray-ray!"
+    },
+    {
+        "id": "S07E23_000232",
+        "character": "Phoebe",
+        "text": "Just for the future, this is hardly a commercial for it.",
+        "duration": 1.20900000000006,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000232.wav",
+        "character-id": 5,
+        "text-clean": "Just for the future, this is hardly a commercial for it."
+    },
+    {
+        "id": "S07E24_000029",
+        "character": "Conan",
+        "text": "Now you guys work with animals a lot. You had to work early on with a monkey",
+        "duration": 5.8799999999999955,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000029.wav",
+        "character-id": 103,
+        "text-clean": "Now you guys work with animals a lot. You had to work early on with a monkey"
+    },
+    {
+        "id": "S07E20_000179",
+        "character": "Monica",
+        "text": "You'll vamp?!",
+        "duration": 1.7509999999999764,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000179.wav",
+        "character-id": 4,
+        "text-clean": "You'll vamp?!"
+    },
+    {
+        "id": "S07E22_000005",
+        "character": "Ross",
+        "text": "It's a car Monica! Not a rocket ship!",
+        "duration": 2.6679999999999993,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000005.wav",
+        "character-id": 1,
+        "text-clean": "It's a car Monica! Not a rocket ship!"
+    },
+    {
+        "id": "S07E15_000040",
+        "character": "Rachel",
+        "text": "All right, straight, and not subtle. (The man gets up and leaves.)",
+        "duration": 8.507999999999981,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000040.wav",
+        "character-id": 6,
+        "text-clean": "All right, straight, and not subtle. "
+    },
+    {
+        "id": "S07E22_000122",
+        "character": "Monica",
+        "text": "I still say that if we had called your dad we coulda gotten better seats.",
+        "duration": 2.2520000000000664,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000122.wav",
+        "character-id": 4,
+        "text-clean": "I still say that if we had called your dad we coulda gotten better seats."
+    },
+    {
+        "id": "S07E16_000112",
+        "character": "Ben",
+        "text": "Oh damnit!",
+        "duration": 2.1259999999999764,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000112.wav",
+        "character-id": 42,
+        "text-clean": "Oh damnit!"
+    },
+    {
+        "id": "S07E24_000028",
+        "character": "Chandler",
+        "text": "What the fu\u00c2\u2014(beep)\u00c2\u2014ck are you doing?!",
+        "duration": 7.297999999999988,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000028.wav",
+        "character-id": 3,
+        "text-clean": "What the fu\u00c2\u2014\u00c2\u2014ck are you doing?!"
+    },
+    {
+        "id": "S07E17_000108",
+        "character": "Phoebe",
+        "text": "Oh my God!! (She grabs Rachel's hand and drags her towards Monica.) Excuse me! Excuse me! (She's knocking women and veils out of the way as she moves.)",
+        "duration": 5.296000000000049,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000108.wav",
+        "character-id": 5,
+        "text-clean": "Oh my God!!  Excuse me! Excuse me! "
+    },
+    {
+        "id": "S07E17_000044",
+        "character": "Monica",
+        "text": "Yeah! So-so when are you getting married?",
+        "duration": 3.3360000000000127,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000044.wav",
+        "character-id": 4,
+        "text-clean": "Yeah! So-so when are you getting married?"
+    },
+    {
+        "id": "S07E14_000102",
+        "character": "Monica",
+        "text": "Awwwww (Giggles.)",
+        "duration": 2.2100000000000364,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000102.wav",
+        "character-id": 4,
+        "text-clean": "Awwwww "
+    },
+    {
+        "id": "S07E23_000251",
+        "character": "Rachel",
+        "text": "Okay. But wait!",
+        "duration": 1.8759999999999764,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000251.wav",
+        "character-id": 6,
+        "text-clean": "Okay. But wait!"
+    },
+    {
+        "id": "S07E14_000193",
+        "character": "Tag",
+        "text": "Wait! I think I see where you're going, but before you say anything else, can I just say one more thing? (Kisses her.)",
+        "duration": 8.131999999999834,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000193.wav",
+        "character-id": 17,
+        "text-clean": "Wait! I think I see where you're going, but before you say anything else, can I just say one more thing? "
+    },
+    {
+        "id": "S07E21_000017",
+        "character": "Rachel",
+        "text": "Well, I like the pretty little drawing of you in the wedding dress.",
+        "duration": 3.9610000000000127,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000017.wav",
+        "character-id": 6,
+        "text-clean": "Well, I like the pretty little drawing of you in the wedding dress."
+    },
+    {
+        "id": "S07E16_000069",
+        "character": "Chandler",
+        "text": "(To Monica) Y'know, we haven't found anybody else.",
+        "duration": 1.25,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000069.wav",
+        "character-id": 3,
+        "text-clean": " Y'know, we haven't found anybody else."
+    },
+    {
+        "id": "S07E21_000018",
+        "character": "Monica",
+        "text": "Thank you.",
+        "duration": 4.295000000000016,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000018.wav",
+        "character-id": 4,
+        "text-clean": "Thank you."
+    },
+    {
+        "id": "S07E20_000184",
+        "character": "Phoebe",
+        "text": "Oh, somewhere Joey's head is exploding.",
+        "duration": 2.5019999999999527,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000184.wav",
+        "character-id": 5,
+        "text-clean": "Oh, somewhere Joey's head is exploding."
+    },
+    {
+        "id": "S07E23_000236",
+        "character": "Rachel",
+        "text": "Ross, she's gonna start getting ready soon!",
+        "duration": 1.6679999999998927,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000236.wav",
+        "character-id": 6,
+        "text-clean": "Ross, she's gonna start getting ready soon!"
+    },
+    {
+        "id": "S07E17_000183",
+        "character": "Joey",
+        "text": "Yeah bye-bye! (Exits and comes back in still holding the lotion.) Hey! So just a light layer?",
+        "duration": 6.2549999999999955,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000183.wav",
+        "character-id": 2,
+        "text-clean": "Yeah bye-bye!  Hey! So just a light layer?"
+    },
+    {
+        "id": "S07E21_000141",
+        "character": "Chandler",
+        "text": "Okay, so now do you believe that she's attracted to me?",
+        "duration": 3.4189999999999827,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000141.wav",
+        "character-id": 3,
+        "text-clean": "Okay, so now do you believe that she's attracted to me?"
+    },
+    {
+        "id": "S07E20_000083",
+        "character": "Phoebe",
+        "text": "I like our way. Oh! (Grabs a piece and jumps a bunch of Joey's like in Checkers.) Chess!",
+        "duration": 5.004000000000019,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000083.wav",
+        "character-id": 5,
+        "text-clean": "I like our way. Oh!  Chess!"
+    },
+    {
+        "id": "S07E22_000073",
+        "character": "Jake",
+        "text": "Yeah that would be great! Let me make sure I'm not doing anything Tuesday. (He bends over to open his bag, when he does so his pants slide down his butt revealing a pink lace secret.)",
+        "duration": 3.752999999999986,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000073.wav",
+        "character-id": 81,
+        "text-clean": "Yeah that would be great! Let me make sure I'm not doing anything Tuesday. "
+    },
+    {
+        "id": "S07E17_000150",
+        "character": "Ross",
+        "text": "I was thinking more like a hundred.",
+        "duration": 3.2519999999999527,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000150.wav",
+        "character-id": 1,
+        "text-clean": "I was thinking more like a hundred."
+    },
+    {
+        "id": "S07E17_000239",
+        "character": "Monica",
+        "text": "Yeah but I'm not keeping it.",
+        "duration": 3.6269999999999527,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000239.wav",
+        "character-id": 4,
+        "text-clean": "Yeah but I'm not keeping it."
+    },
+    {
+        "id": "S07E16_000129",
+        "character": "Joey",
+        "text": "\" by doin' it.\"",
+        "duration": 2.50100000000009,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000129.wav",
+        "character-id": 2,
+        "text-clean": "\" by doin' it.\""
+    },
+    {
+        "id": "S07E16_000179",
+        "character": "Chandler",
+        "text": "Uh, could you leave me one?",
+        "duration": 2.7100000000000364,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000179.wav",
+        "character-id": 3,
+        "text-clean": "Uh, could you leave me one?"
+    },
+    {
+        "id": "S07E21_000129",
+        "character": "Rachel",
+        "text": "Nothing! Oh God, we're just so excited that you want to get this apartment!",
+        "duration": 3.0020000000000664,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000129.wav",
+        "character-id": 6,
+        "text-clean": "Nothing! Oh God, we're just so excited that you want to get this apartment!"
+    },
+    {
+        "id": "S07E13_000200",
+        "character": "Earl",
+        "text": "(inspecting it) Really?",
+        "duration": 1.08400000000006,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000200.wav",
+        "character-id": 63,
+        "text-clean": " Really?"
+    },
+    {
+        "id": "S07E21_000003",
+        "character": "Chandler",
+        "text": "I figured I'd buy those. Pat, I'd like to buy a vow. (Laughs)",
+        "duration": 4.587,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000003.wav",
+        "character-id": 3,
+        "text-clean": "I figured I'd buy those. Pat, I'd like to buy a vow. "
+    },
+    {
+        "id": "S07E24_000005",
+        "character": "Courtney",
+        "text": "Oh! Okay! I'm gonna try it without the coffee cup \u00c2\u2018cause I think it's the left hand that's messing me up.",
+        "duration": 2.7520000000000007,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000005.wav",
+        "character-id": 102,
+        "text-clean": "Oh! Okay! I'm gonna try it without the coffee cup \u00c2\u2018cause I think it's the left hand that's messing me up."
+    },
+    {
+        "id": "S07E20_000068",
+        "character": "Chandler",
+        "text": "You mean like for award shows?",
+        "duration": 2.8349999999999795,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000068.wav",
+        "character-id": 3,
+        "text-clean": "You mean like for award shows?"
+    },
+    {
+        "id": "S07E18_000178",
+        "character": "Monica",
+        "text": "You're wrong! The centerpieces are fine! Do you ever get scared at all?",
+        "duration": 8.508000000000038,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000178.wav",
+        "character-id": 4,
+        "text-clean": "You're wrong! The centerpieces are fine! Do you ever get scared at all?"
+    },
+    {
+        "id": "S07E17_000159",
+        "character": "Monica",
+        "text": "What am I gonna do?! That is the dress! That is the dress! Wh Chandler wants the band. What do I do?",
+        "duration": 8.673999999999978,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000159.wav",
+        "character-id": 4,
+        "text-clean": "What am I gonna do?! That is the dress! That is the dress! Wh Chandler wants the band. What do I do?"
+    },
+    {
+        "id": "S07E17_000077",
+        "character": "Joey",
+        "text": "Sounds great! Okay, alright, well where does this go? (The lamp he's holding.)",
+        "duration": 2.5850000000000364,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000077.wav",
+        "character-id": 2,
+        "text-clean": "Sounds great! Okay, alright, well where does this go? "
+    },
+    {
+        "id": "S07E21_000095",
+        "character": "Chandler",
+        "text": "I've had a very long, hard day.",
+        "duration": 2.6259999999999764,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000095.wav",
+        "character-id": 3,
+        "text-clean": "I've had a very long, hard day."
+    },
+    {
+        "id": "S07E16_000224",
+        "character": "Chandler",
+        "text": "How can I not be upset? Okay? I finally fall in love with this fantastic woman and it turns out that she wanted you first!",
+        "duration": 5.587999999999965,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000224.wav",
+        "character-id": 3,
+        "text-clean": "How can I not be upset? Okay? I finally fall in love with this fantastic woman and it turns out that she wanted you first!"
+    },
+    {
+        "id": "S07E23_000114",
+        "character": "Monica",
+        "text": "It-it's so great to see you both here.",
+        "duration": 2.8350000000000364,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000114.wav",
+        "character-id": 4,
+        "text-clean": "It-it's so great to see you both here."
+    },
+    {
+        "id": "S07E22_000232",
+        "character": "Ross",
+        "text": "Y'know of-officer I uh I had the weirdest dream last night",
+        "duration": 5.670999999999822,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000232.wav",
+        "character-id": 1,
+        "text-clean": "Y'know of-officer I uh I had the weirdest dream last night"
+    },
+    {
+        "id": "S07E16_000078",
+        "character": "Rachel",
+        "text": "Oh yeah? Did he pull the old (She is waving her hand up and down her face. She's thinking about the pencil mark.)",
+        "duration": 3.4189999999999827,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000078.wav",
+        "character-id": 6,
+        "text-clean": "Oh yeah? Did he pull the old "
+    },
+    {
+        "id": "S07E14_000130",
+        "character": "Rachel",
+        "text": "So, if I wanna have my kid when I'm 35, I don't have to get pregnant until I'm 34. Which gives Prada four years to start making maternity clothes! Oh wait, but I do want to be married for a year before I get pregnant",
+        "duration": 15.01400000000001,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000130.wav",
+        "character-id": 6,
+        "text-clean": "So, if I wanna have my kid when I'm 35, I don't have to get pregnant until I'm 34. Which gives Prada four years to start making maternity clothes! Oh wait, but I do want to be married for a year before I get pregnant"
+    },
+    {
+        "id": "S07E24_000069",
+        "character": "Conan",
+        "text": "You've done over 150 episodes, but your favorite moments that 80 years from now you'll be thinking about?",
+        "duration": 8.673999999999978,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000069.wav",
+        "character-id": 103,
+        "text-clean": "You've done over 150 episodes, but your favorite moments that 80 years from now you'll be thinking about?"
+    },
+    {
+        "id": "S07E13_000091",
+        "character": "Earl",
+        "text": "Okay, so no toner today. Thanks anyway, bye-bye.",
+        "duration": 5.379000000000019,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000091.wav",
+        "character-id": 63,
+        "text-clean": "Okay, so no toner today. Thanks anyway, bye-bye."
+    },
+    {
+        "id": "S07E16_000220",
+        "character": "Rachel",
+        "text": "I gotta go! (Runs out.)",
+        "duration": 2.04300000000012,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000220.wav",
+        "character-id": 6,
+        "text-clean": "I gotta go! "
+    },
+    {
+        "id": "S07E15_000069",
+        "character": "Joey",
+        "text": "(quickly) I don't know. Why? Did you hear something?",
+        "duration": 2.2930000000000064,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000069.wav",
+        "character-id": 2,
+        "text-clean": " I don't know. Why? Did you hear something?"
+    },
+    {
+        "id": "S07E18_000184",
+        "character": "Chandler",
+        "text": "Sleeping with somebody new: anxiety, panic, and, I'm afraid, even more sweating.",
+        "duration": 6.6720000000000255,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000184.wav",
+        "character-id": 3,
+        "text-clean": "Sleeping with somebody new: anxiety, panic, and, I'm afraid, even more sweating."
+    },
+    {
+        "id": "S07E18_000111",
+        "character": "Rachel",
+        "text": "Joey! Why did we have to rush out of there so fast?!",
+        "duration": 2.9600000000000364,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000111.wav",
+        "character-id": 6,
+        "text-clean": "Joey! Why did we have to rush out of there so fast?!"
+    },
+    {
+        "id": "S07E13_000137",
+        "character": "Ross",
+        "text": "Yeah. Yeah, oh you loved that thing. You always had it with you. You never went anywhere without-without that coloring book.",
+        "duration": 8.673999999999978,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000137.wav",
+        "character-id": 1,
+        "text-clean": "Yeah. Yeah, oh you loved that thing. You always had it with you. You never went anywhere without-without that coloring book."
+    },
+    {
+        "id": "S07E16_000209",
+        "character": "Ross",
+        "text": "What's her last name?",
+        "duration": 1.6669999999999163,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000209.wav",
+        "character-id": 1,
+        "text-clean": "What's her last name?"
+    },
+    {
+        "id": "S07E23_000224",
+        "character": "Phoebe",
+        "text": "(looking into the trash can) Sure. (Reaching into the trash can.) Do you need some floss? (Grabs a piece of it.)",
+        "duration": 6.463999999999942,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000224.wav",
+        "character-id": 5,
+        "text-clean": " Sure.  Do you need some floss? "
+    },
+    {
+        "id": "S07E24_000017",
+        "character": "Matt",
+        "text": "I have had some clumsy moments, I guess you can call \u00c2\u2018em.",
+        "duration": 4.254000000000001,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000017.wav",
+        "character-id": 106,
+        "text-clean": "I have had some clumsy moments, I guess you can call \u00c2\u2018em."
+    },
+    {
+        "id": "S07E15_000082",
+        "character": "Rachel",
+        "text": "Yes okay. (Checking the speed dial again.) Well now see this isn't telling us anything. (Reading the speed dial) Joe. Carlos. Peter. Ooh! Peter Luger! T hat's a steak house!",
+        "duration": 3.4599999999999795,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000082.wav",
+        "character-id": 6,
+        "text-clean": "Yes okay.  Well now see this isn't telling us anything.  Joe. Carlos. Peter. Ooh! Peter Luger! T hat's a steak house!"
+    },
+    {
+        "id": "S07E20_000058",
+        "character": "Chandler",
+        "text": "Well this is just sad!",
+        "duration": 1.41700000000003,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000058.wav",
+        "character-id": 3,
+        "text-clean": "Well this is just sad!"
+    },
+    {
+        "id": "S07E21_000032",
+        "character": "Chandler",
+        "text": "(shocked) There are seven?! (Points to one) That's one?",
+        "duration": 8.091000000000008,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000032.wav",
+        "character-id": 3,
+        "text-clean": " There are seven?!  That's one?"
+    },
+    {
+        "id": "S07E17_000139",
+        "character": "Ross",
+        "text": "That's interesting, but check this out. I date her",
+        "duration": 4.461999999999989,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000139.wav",
+        "character-id": 1,
+        "text-clean": "That's interesting, but check this out. I date her"
+    },
+    {
+        "id": "S07E19_000012",
+        "character": "Joey",
+        "text": "(on phone) Oh my God!",
+        "duration": 2.1260000000000048,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000012.wav",
+        "character-id": 2,
+        "text-clean": " Oh my God!"
+    },
+    {
+        "id": "S07E23_000175",
+        "character": "Joey",
+        "text": "But you're spittin' all over me man!",
+        "duration": 2.5430000000000064,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000175.wav",
+        "character-id": 2,
+        "text-clean": "But you're spittin' all over me man!"
+    },
+    {
+        "id": "S07E15_000121",
+        "character": "Cecilia",
+        "text": "So, the essence of the character is rooted in her confidence. So, when Jessica enters a room for instance, she owns everything and every person in that room. (Joey is nodding.) You try.",
+        "duration": 18.101,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000121.wav",
+        "character-id": 69,
+        "text-clean": "So, the essence of the character is rooted in her confidence. So, when Jessica enters a room for instance, she owns everything and every person in that room.  You try."
+    },
+    {
+        "id": "S07E21_000046",
+        "character": "Chandler",
+        "text": "Oh, no, no. I just meant hypothetically.",
+        "duration": 2.166999999999973,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000046.wav",
+        "character-id": 3,
+        "text-clean": "Oh, no, no. I just meant hypothetically."
+    },
+    {
+        "id": "S07E24_000049",
+        "character": "Joey",
+        "text": "(Pause) Sorry. (Raises his hand in shame.)",
+        "duration": 4.420000000000016,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000049.wav",
+        "character-id": 2,
+        "text-clean": " Sorry. "
+    },
+    {
+        "id": "S07E15_000199",
+        "character": "Ross",
+        "text": "(stands up) Now umm, remember I'm still learning.",
+        "duration": 29.27800000000002,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000199.wav",
+        "character-id": 1,
+        "text-clean": " Now umm, remember I'm still learning."
+    },
+    {
+        "id": "S07E21_000090",
+        "character": "Phoebe",
+        "text": "Yeah, you're right. How's the Mrs.?",
+        "duration": 2.0839999999999463,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000090.wav",
+        "character-id": 5,
+        "text-clean": "Yeah, you're right. How's the Mrs.?"
+    },
+    {
+        "id": "S07E14_000189",
+        "character": "Tag",
+        "text": "Okay. (They sit on the step.)",
+        "duration": 5.088000000000193,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000189.wav",
+        "character-id": 17,
+        "text-clean": "Okay. "
+    },
+    {
+        "id": "S07E14_000109",
+        "character": "Rachel",
+        "text": "Okay, but taking care of a drunk, naked woman seems like a job for Joey.",
+        "duration": 3.3360000000000127,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000109.wav",
+        "character-id": 6,
+        "text-clean": "Okay, but taking care of a drunk, naked woman seems like a job for Joey."
+    },
+    {
+        "id": "S07E19_000028",
+        "character": "Rachel",
+        "text": "(entering) Hi!",
+        "duration": 1.4170000000000016,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000028.wav",
+        "character-id": 6,
+        "text-clean": " Hi!"
+    },
+    {
+        "id": "S07E17_000069",
+        "character": "Kristen",
+        "text": "Kristen.",
+        "duration": 2.5020000000000095,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000069.wav",
+        "character-id": 75,
+        "text-clean": "Kristen."
+    },
+    {
+        "id": "S07E13_000173",
+        "character": "Joey",
+        "text": "So, there was no miracle?!",
+        "duration": 3.6700000000000728,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000173.wav",
+        "character-id": 2,
+        "text-clean": "So, there was no miracle?!"
+    },
+    {
+        "id": "S07E22_000056",
+        "character": "Rachel",
+        "text": "Oh my",
+        "duration": 1.7930000000000064,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000056.wav",
+        "character-id": 6,
+        "text-clean": "Oh my"
+    },
+    {
+        "id": "S07E18_000070",
+        "character": "Monica",
+        "text": "Okay-okay, I got it. I got it.",
+        "duration": 2.0430000000000064,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000070.wav",
+        "character-id": 4,
+        "text-clean": "Okay-okay, I got it. I got it."
+    },
+    {
+        "id": "S07E15_000135",
+        "character": "Cecilia",
+        "text": "Oh yeah-yeah, we should get the (Pause) So when Jessica kisses a man, she usually puts umm, both her hands on the man's face. (She does so.)",
+        "duration": 17.432999999999993,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000135.wav",
+        "character-id": 69,
+        "text-clean": "Oh yeah-yeah, we should get the  So when Jessica kisses a man, she usually puts umm, both her hands on the man's face. "
+    },
+    {
+        "id": "S07E24_000023",
+        "character": "Joey",
+        "text": "You're still a tiny bit on fire there.",
+        "duration": 3.1269999999999953,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000023.wav",
+        "character-id": 2,
+        "text-clean": "You're still a tiny bit on fire there."
+    },
+    {
+        "id": "S07E17_000137",
+        "character": "Ross",
+        "text": "Well now let's-let's look at this objectively, I think I should date her",
+        "duration": 6.0470000000000255,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000137.wav",
+        "character-id": 1,
+        "text-clean": "Well now let's-let's look at this objectively, I think I should date her"
+    },
+    {
+        "id": "S07E21_000009",
+        "character": "Chandler",
+        "text": "(watching in her) (in his head) Look at her go! She must love me more than I love her! What's wrong with me? Ooh, don't open that door.",
+        "duration": 8.549,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000009.wav",
+        "character-id": 3,
+        "text-clean": "  Look at her go! She must love me more than I love her! What's wrong with me? Ooh, don't open that door."
+    },
+    {
+        "id": "S07E18_000033",
+        "character": "Phoebe",
+        "text": "Oh my God! That guy at the counter is totally checking you out!",
+        "duration": 3.669000000000011,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000033.wav",
+        "character-id": 5,
+        "text-clean": "Oh my God! That guy at the counter is totally checking you out!"
+    },
+    {
+        "id": "S07E21_000093",
+        "character": "Ross",
+        "text": "Believe me, it seems like less because they hid it from us for so long.",
+        "duration": 3.4610000000000127,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000093.wav",
+        "character-id": 1,
+        "text-clean": "Believe me, it seems like less because they hid it from us for so long."
+    },
+    {
+        "id": "S07E22_000235",
+        "character": "Ross",
+        "text": "(laughs) You don't-you don't want to hear about my dream Officer Pretty?",
+        "duration": 6.673000000000002,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000235.wav",
+        "character-id": 1,
+        "text-clean": " You don't-you don't want to hear about my dream Officer Pretty?"
+    },
+    {
+        "id": "S07E21_000195",
+        "character": "Rachel",
+        "text": "Hey, who's this little naked guy?",
+        "duration": 2.0429999999998927,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000195.wav",
+        "character-id": 6,
+        "text-clean": "Hey, who's this little naked guy?"
+    },
+    {
+        "id": "S07E19_000014",
+        "character": "Joey",
+        "text": "Are you kidding me? I never rent a movie without it! (Listens) Oh. (Listens) Uh, okay uh let me call you back. (Hangs up.)",
+        "duration": 9.716999999999999,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000014.wav",
+        "character-id": 2,
+        "text-clean": "Are you kidding me? I never rent a movie without it!  Oh.  Uh, okay uh let me call you back. "
+    },
+    {
+        "id": "S07E22_000064",
+        "character": "Joey",
+        "text": "So! You and Phoebe huh? How long have you been going out?",
+        "duration": 4.128000000000043,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000064.wav",
+        "character-id": 2,
+        "text-clean": "So! You and Phoebe huh? How long have you been going out?"
+    },
+    {
+        "id": "S07E23_000086",
+        "character": "Monica",
+        "text": "Really?",
+        "duration": 1.5009999999999764,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000086.wav",
+        "character-id": 4,
+        "text-clean": "Really?"
+    },
+    {
+        "id": "S07E20_000032",
+        "character": "Joey",
+        "text": "(excitedly) Wow? Wow what?! Wow what?! Who you\u00c2\u2014what?!!",
+        "duration": 4.961999999999989,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000032.wav",
+        "character-id": 2,
+        "text-clean": " Wow? Wow what?! Wow what?! Who you\u00c2\u2014what?!!"
+    },
+    {
+        "id": "S07E22_000079",
+        "character": "Chandler",
+        "text": "Y'know we already went over this and I won!",
+        "duration": 2.0430000000000064,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000079.wav",
+        "character-id": 3,
+        "text-clean": "Y'know we already went over this and I won!"
+    },
+    {
+        "id": "S07E21_000150",
+        "character": "Phoebe",
+        "text": "I'll have to get back to you on that. Okay, bye! (Hangs up.) Oh my God! He wants me to come over and feel his bicep and more!",
+        "duration": 3.5020000000000664,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000150.wav",
+        "character-id": 5,
+        "text-clean": "I'll have to get back to you on that. Okay, bye!  Oh my God! He wants me to come over and feel his bicep and more!"
+    },
+    {
+        "id": "S07E13_000120",
+        "character": "Ross",
+        "text": "Sure! Ooh-ooh, what about this?",
+        "duration": 2.2930000000000064,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000120.wav",
+        "character-id": 1,
+        "text-clean": "Sure! Ooh-ooh, what about this?"
+    },
+    {
+        "id": "S07E16_000175",
+        "character": "Chandler",
+        "text": "No! No! No!",
+        "duration": 1.7930000000000064,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000175.wav",
+        "character-id": 3,
+        "text-clean": "No! No! No!"
+    },
+    {
+        "id": "S07E14_000181",
+        "character": "Joey",
+        "text": "Okay! (Runs off downstairs.)",
+        "duration": 2.5009999999999764,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000181.wav",
+        "character-id": 2,
+        "text-clean": "Okay! "
+    },
+    {
+        "id": "S07E14_000145",
+        "character": "Mrs. Geller",
+        "text": "Speech! Come on Monica!",
+        "duration": 1.9180000000000064,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000145.wav",
+        "character-id": 8,
+        "text-clean": "Speech! Come on Monica!"
+    },
+    {
+        "id": "S07E20_000188",
+        "character": "Rachel",
+        "text": "Thank you Phoebe.",
+        "duration": 3.0439999999999827,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000188.wav",
+        "character-id": 6,
+        "text-clean": "Thank you Phoebe."
+    },
+    {
+        "id": "S07E14_000084",
+        "character": "Phoebe",
+        "text": "Do you have my birth certificate?",
+        "duration": 4.086000000000013,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000084.wav",
+        "character-id": 5,
+        "text-clean": "Do you have my birth certificate?"
+    },
+    {
+        "id": "S07E14_000139",
+        "character": "Chandler",
+        "text": "(To Monica) How are you feeling?",
+        "duration": 1.33400000000006,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000139.wav",
+        "character-id": 3,
+        "text-clean": " How are you feeling?"
+    },
+    {
+        "id": "S07E13_000199",
+        "character": "Phoebe",
+        "text": "Oh my God! So was she! Oh, I've got-I've got goose bumps. (She holds out her arm.)",
+        "duration": 6.380000000000109,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000199.wav",
+        "character-id": 5,
+        "text-clean": "Oh my God! So was she! Oh, I've got-I've got goose bumps. "
+    },
+    {
+        "id": "S07E18_000035",
+        "character": "Phoebe",
+        "text": "Go for it.",
+        "duration": 3.6270000000000095,
+        "path-wav": "Clips_from_Script/S07/E18/S07E18_000035.wav",
+        "character-id": 5,
+        "text-clean": "Go for it."
+    },
+    {
+        "id": "S07E14_000164",
+        "character": "Rachel",
+        "text": "Hey. (After she leaves.) Oh, poor Pheebs.",
+        "duration": 2.0839999999998327,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000164.wav",
+        "character-id": 6,
+        "text-clean": "Hey.  Oh, poor Pheebs."
+    },
+    {
+        "id": "S07E17_000184",
+        "character": "Ross",
+        "text": "Yes. Yes. Just here (Runs his fingers down the bridge of his nose) and there (Runs his fingers across his forehead).",
+        "duration": 2.6689999999999827,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000184.wav",
+        "character-id": 1,
+        "text-clean": "Yes. Yes. Just here  and there ."
+    },
+    {
+        "id": "S07E20_000002",
+        "character": "Gunther",
+        "text": "Oh umm, uh we don't sell cigarettes, but they have them at the newsstand across the street. (Points.)",
+        "duration": 3.2940000000000005,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000002.wav",
+        "character-id": 52,
+        "text-clean": "Oh umm, uh we don't sell cigarettes, but they have them at the newsstand across the street. "
+    },
+    {
+        "id": "S07E22_000205",
+        "character": "Monica",
+        "text": "New York.",
+        "duration": 3.668999999999869,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000205.wav",
+        "character-id": 4,
+        "text-clean": "New York."
+    },
+    {
+        "id": "S07E23_000226",
+        "character": "Phoebe",
+        "text": "Oh here's a whole bunch.",
+        "duration": 1.5,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000226.wav",
+        "character-id": 5,
+        "text-clean": "Oh here's a whole bunch."
+    },
+    {
+        "id": "S07E16_000043",
+        "character": "Phoebe",
+        "text": "What?! No! It was my idea!",
+        "duration": 2.0010000000000048,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000043.wav",
+        "character-id": 5,
+        "text-clean": "What?! No! It was my idea!"
+    },
+    {
+        "id": "S07E22_000173",
+        "character": "Monica",
+        "text": "What?",
+        "duration": 2.12600000000009,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000173.wav",
+        "character-id": 4,
+        "text-clean": "What?"
+    },
+    {
+        "id": "S07E16_000082",
+        "character": "Rachel",
+        "text": "Oh, come on! Saran Wrap on the toilet seat, you don't think that's just a little funny?!",
+        "duration": 4.461000000000013,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000082.wav",
+        "character-id": 6,
+        "text-clean": "Oh, come on! Saran Wrap on the toilet seat, you don't think that's just a little funny?!"
+    },
+    {
+        "id": "S07E21_000033",
+        "character": "Monica",
+        "text": "It's kind of an important one!",
+        "duration": 3.5859999999999843,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000033.wav",
+        "character-id": 4,
+        "text-clean": "It's kind of an important one!"
+    },
+    {
+        "id": "S07E19_000110",
+        "character": "Joey",
+        "text": "No. What?",
+        "duration": 1.8759999999999764,
+        "path-wav": "Clips_from_Script/S07/E19/S07E19_000110.wav",
+        "character-id": 2,
+        "text-clean": "No. What?"
+    },
+    {
+        "id": "S07E16_000040",
+        "character": "Monica",
+        "text": "Phoebe, we're getting married, married; not sixth grade married.",
+        "duration": 3.1270000000000095,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000040.wav",
+        "character-id": 4,
+        "text-clean": "Phoebe, we're getting married, married; not sixth grade married."
+    },
+    {
+        "id": "S07E15_000193",
+        "character": "Cecilia",
+        "text": "Ah what?! Jessica hates horses!",
+        "duration": 2.3769999999999527,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000193.wav",
+        "character-id": 69,
+        "text-clean": "Ah what?! Jessica hates horses!"
+    },
+    {
+        "id": "S07E17_000107",
+        "character": "Rachel",
+        "text": "No! You gotta hold my hand!!",
+        "duration": 2.1259999999999764,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000107.wav",
+        "character-id": 6,
+        "text-clean": "No! You gotta hold my hand!!"
+    },
+    {
+        "id": "S07E14_000207",
+        "character": "Ross",
+        "text": "Yes! My baby's finally free!",
+        "duration": 3.0859999999997854,
+        "path-wav": "Clips_from_Script/S07/E14/S07E14_000207.wav",
+        "character-id": 1,
+        "text-clean": "Yes! My baby's finally free!"
+    },
+    {
+        "id": "S07E15_000099",
+        "character": "Phoebe",
+        "text": "Good.",
+        "duration": 2.0430000000000064,
+        "path-wav": "Clips_from_Script/S07/E15/S07E15_000099.wav",
+        "character-id": 5,
+        "text-clean": "Good."
+    },
+    {
+        "id": "S07E16_000212",
+        "character": "Ross",
+        "text": "Wh-wh-what line? The line that prompted a student in my last class of the day to say uh, (In a college frat boy voice) \"Dude, don't you ever wash your face?\"",
+        "duration": 8.048999999999978,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000212.wav",
+        "character-id": 1,
+        "text-clean": "Wh-wh-what line? The line that prompted a student in my last class of the day to say uh,  \"Dude, don't you ever wash your face?\""
+    },
+    {
+        "id": "S07E17_000178",
+        "character": "Ross",
+        "text": "Why am I not surprised?",
+        "duration": 3.0019999999999527,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000178.wav",
+        "character-id": 1,
+        "text-clean": "Why am I not surprised?"
+    },
+    {
+        "id": "S07E17_000253",
+        "character": "Joey",
+        "text": "Yeah! (Monica goes in the bedroom.) Y'know, she could use a little (Whistles that she needs to do what they're doing.) (Something happens on the game.) Oh nice shot!!! (They all cheer.)",
+        "duration": 9.799999999999955,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000253.wav",
+        "character-id": 2,
+        "text-clean": "Yeah!  Y'know, she could use a little   Oh nice shot!!! "
+    },
+    {
+        "id": "S07E23_000087",
+        "character": "Chandler",
+        "text": "Yeah. Y'know I keep thinking that something stupid is gonna come up and I'll go all Chandler. But nothing has.",
+        "duration": 10.425999999999988,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000087.wav",
+        "character-id": 3,
+        "text-clean": "Yeah. Y'know I keep thinking that something stupid is gonna come up and I'll go all Chandler. But nothing has."
+    },
+    {
+        "id": "S07E17_000119",
+        "character": "Joey",
+        "text": "Well check it out, I was with this really hot girl who just moved in right across the street!",
+        "duration": 4.837000000000103,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000119.wav",
+        "character-id": 2,
+        "text-clean": "Well check it out, I was with this really hot girl who just moved in right across the street!"
+    },
+    {
+        "id": "S07E13_000097",
+        "character": "Earl",
+        "text": "I-I'm sorry?",
+        "duration": 2.1269999999999527,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000097.wav",
+        "character-id": 63,
+        "text-clean": "I-I'm sorry?"
+    },
+    {
+        "id": "S07E13_000214",
+        "character": "Ross",
+        "text": "(even more shocked) What?!!!",
+        "duration": 2.918999999999869,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000214.wav",
+        "character-id": 1,
+        "text-clean": " What?!!!"
+    },
+    {
+        "id": "S07E23_000161",
+        "character": "Phoebe",
+        "text": "Or maybe he-he was writing to tell her that-that he's changed his name, y'know? Tell Monica I'm sorry.",
+        "duration": 8.381999999999948,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000161.wav",
+        "character-id": 5,
+        "text-clean": "Or maybe he-he was writing to tell her that-that he's changed his name, y'know? Tell Monica I'm sorry."
+    },
+    {
+        "id": "S07E23_000034",
+        "character": "Phoebe",
+        "text": "That play?",
+        "duration": 1.0,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000034.wav",
+        "character-id": 5,
+        "text-clean": "That play?"
+    },
+    {
+        "id": "S07E16_000044",
+        "character": "Chandler",
+        "text": "Guys thank you very much but neither of you is marrying us.",
+        "duration": 3.3360000000000127,
+        "path-wav": "Clips_from_Script/S07/E16/S07E16_000044.wav",
+        "character-id": 3,
+        "text-clean": "Guys thank you very much but neither of you is marrying us."
+    },
+    {
+        "id": "S07E22_000099",
+        "character": "Joey",
+        "text": "That's kinda hot.",
+        "duration": 3.8360000000000127,
+        "path-wav": "Clips_from_Script/S07/E22/S07E22_000099.wav",
+        "character-id": 2,
+        "text-clean": "That's kinda hot."
+    },
+    {
+        "id": "S07E23_000215",
+        "character": "Rachel",
+        "text": "God! Don't\u00c2\u2014We can't let her start getting ready! This is too awful! Oh God, but wait she'll be in the gown and then he won't show up and then she's gonna have to take off the gown",
+        "duration": 10.509999999999991,
+        "path-wav": "Clips_from_Script/S07/E23/S07E23_000215.wav",
+        "character-id": 6,
+        "text-clean": "God! Don't\u00c2\u2014We can't let her start getting ready! This is too awful! Oh God, but wait she'll be in the gown and then he won't show up and then she's gonna have to take off the gown"
+    },
+    {
+        "id": "S07E13_000125",
+        "character": "Joey",
+        "text": "No. Really?",
+        "duration": 1.41700000000003,
+        "path-wav": "Clips_from_Script/S07/E13/S07E13_000125.wav",
+        "character-id": 2,
+        "text-clean": "No. Really?"
+    },
+    {
+        "id": "S07E20_000084",
+        "character": "Joey",
+        "text": "Nice move.",
+        "duration": 1.9180000000000064,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000084.wav",
+        "character-id": 2,
+        "text-clean": "Nice move."
+    },
+    {
+        "id": "S07E20_000170",
+        "character": "Monica",
+        "text": "How about a Youhoo with a funny straw?",
+        "duration": 3.0430000000000064,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000170.wav",
+        "character-id": 4,
+        "text-clean": "How about a Youhoo with a funny straw?"
+    },
+    {
+        "id": "S07E20_000000",
+        "character": "Rachel",
+        "text": "Hey! Out of all of us, who do you think is gonna get married next?",
+        "duration": 3.2940000000000005,
+        "path-wav": "Clips_from_Script/S07/E20/S07E20_000000.wav",
+        "character-id": 6,
+        "text-clean": "Hey! Out of all of us, who do you think is gonna get married next?"
+    },
+    {
+        "id": "S07E17_000055",
+        "character": "Megan",
+        "text": "I know! I almost called off my wedding. Oh, who's your band?!",
+        "duration": 6.756000000000029,
+        "path-wav": "Clips_from_Script/S07/E17/S07E17_000055.wav",
+        "character-id": 76,
+        "text-clean": "I know! I almost called off my wedding. Oh, who's your band?!"
+    },
+    {
+        "id": "S07E24_000065",
+        "character": "Chandler",
+        "text": "(noticing the woman on the screen) Whoa! She's purty!",
+        "duration": 4.252999999999929,
+        "path-wav": "Clips_from_Script/S07/E24/S07E24_000065.wav",
+        "character-id": 3,
+        "text-clean": " Whoa! She's purty!"
+    },
+    {
+        "id": "S07E21_000082",
+        "character": "Rachel",
+        "text": "Hey, what have you guys been up to?",
+        "duration": 1.58299999999997,
+        "path-wav": "Clips_from_Script/S07/E21/S07E21_000082.wav",
+        "character-id": 6,
+        "text-clean": "Hey, what have you guys been up to?"
+    }
+]

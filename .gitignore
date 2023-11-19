@@ -1,0 +1,27 @@
+# Ignore compiled files
+*.class
+*.o
+*.pyc
+
+# Ignore MP3 and PT files
+*.mp3
+*.wav
+*.pt
+
+# Ignore build and temporary directories
+/build/
+/dist/
+/.venv/
+/node_modules/
+
+# Ignore environment-specific files
+.env
+.env.local
+
+# Ignore logs and databases
+*.log
+*.sqlite
+
+# Ignore configuration files that may contain sensitive information
+config.ini
+secrets.json
