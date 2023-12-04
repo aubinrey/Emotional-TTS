@@ -19,13 +19,15 @@ from model.utils import sequence_mask, generate_path, duration_loss, fix_len_com
 
 
 class GradTTS(BaseModule):
-    def __init__(self, n_vocab, n_spks, spk_emb_dim, n_enc_channels, filter_channels, filter_channels_dp, 
+    def __init__(self, n_vocab, n_spks, spk_emb_dim, n_emotion, emotion_emb_dim, n_enc_channels, filter_channels, filter_channels_dp, 
                  n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
                  n_feats, dec_dim, beta_min, beta_max, pe_scale):
         super(GradTTS, self).__init__()
         self.n_vocab = n_vocab
         self.n_spks = n_spks
         self.spk_emb_dim = spk_emb_dim
+        self.n_emotion = n_emotion
+        self.emotion_emb_dim = emotion_emb_dim
         self.n_enc_channels = n_enc_channels
         self.filter_channels = filter_channels
         self.filter_channels_dp = filter_channels_dp
@@ -42,13 +44,15 @@ class GradTTS(BaseModule):
 
         if n_spks > 1:
             self.spk_emb = torch.nn.Embedding(n_spks, spk_emb_dim)
+        if n_emotion > 1:
+            self.emotion_emb = torch.nn.Embedding(n_emotion, emotion_emb_dim)
         self.encoder = TextEncoder(n_vocab, n_feats, n_enc_channels, 
                                    filter_channels, filter_channels_dp, n_heads, 
                                    n_enc_layers, enc_kernel, enc_dropout, window_size)
-        self.decoder = Diffusion(n_feats, dec_dim, n_spks, spk_emb_dim, beta_min, beta_max, pe_scale)
+        self.decoder = Diffusion(n_feats, dec_dim, n_spks, spk_emb_dim, n_emotion, emotion_emb_dim, beta_min, beta_max, pe_scale)
 
     @torch.no_grad()
-    def forward(self, x, x_lengths, n_timesteps, temperature=1.0, stoc=False, spk=None, length_scale=1.0):
+    def forward(self, x, x_lengths, n_timesteps, temperature=1.0, stoc=False, spk=None, emotion=None, length_scale=1.0):
         """
         Generates mel-spectrogram from text. Returns:
             1. encoder outputs
@@ -70,9 +74,12 @@ class GradTTS(BaseModule):
         if self.n_spks > 1:
             # Get speaker embedding
             spk = self.spk_emb(spk)
+        if self.n_emotion > 1:
+            # Get emotion embedding
+            emotion = self.emotion_emb(emotion)
 
         # Get encoder_outputs `mu_x` and log-scaled token durations `logw`
-        mu_x, logw, x_mask = self.encoder(x, x_lengths, spk)
+        mu_x, logw, x_mask = self.encoder(x, x_lengths, spk, emotion)
 
         w = torch.exp(logw) * x_mask
         w_ceil = torch.ceil(w) * length_scale
@@ -93,12 +100,12 @@ class GradTTS(BaseModule):
         # Sample latent representation from terminal distribution N(mu_y, I)
         z = mu_y + torch.randn_like(mu_y, device=mu_y.device) / temperature
         # Generate sample by performing reverse dynamics
-        decoder_outputs = self.decoder(z, y_mask, mu_y, n_timesteps, stoc, spk)
+        decoder_outputs = self.decoder(z, y_mask, mu_y, n_timesteps, stoc, spk, emotion)
         decoder_outputs = decoder_outputs[:, :, :y_max_length]
 
         return encoder_outputs, decoder_outputs, attn[:, :, :y_max_length]
 
-    def compute_loss(self, x, x_lengths, y, y_lengths, spk=None, out_size=None):
+    def compute_loss(self, x, x_lengths, y, y_lengths, spk=None, emotion=None, out_size=None):
         """
         Computes 3 losses:
             1. duration loss: loss between predicted token durations and those extracted by Monotinic Alignment Search (MAS).
@@ -119,8 +126,12 @@ class GradTTS(BaseModule):
             # Get speaker embedding
             spk = self.spk_emb(spk)
         
+        if self.n_emotion > 1:
+            # Get emotion embedding
+            emotion = self.emotion_emb(emotion)
+        
         # Get encoder_outputs `mu_x` and log-scaled token durations `logw`
-        mu_x, logw, x_mask = self.encoder(x, x_lengths, spk)
+        mu_x, logw, x_mask = self.encoder(x, x_lengths, spk, emotion)
         y_max_length = y.shape[-1]
 
         y_mask = sequence_mask(y_lengths, y_max_length).unsqueeze(1).to(x_mask)
@@ -172,7 +183,7 @@ class GradTTS(BaseModule):
         mu_y = mu_y.transpose(1, 2)
 
         # Compute loss of score-based decoder
-        diff_loss, xt = self.decoder.compute_loss(y, y_mask, mu_y, spk)
+        diff_loss, xt = self.decoder.compute_loss(y, y_mask, mu_y, spk, emotion)
         
         # Compute loss between aligned encoder outputs and mel-spectrogram
         prior_loss = torch.sum(0.5 * ((y - mu_y) ** 2 + math.log(2 * math.pi)) * y_mask)

@@ -1,0 +1,1004 @@
+{
+  "samples": [
+    {
+      "text": "What are you waiting for? man.",
+      "original_audio_path": "Emotion Speech Dataset/0011/Angry/0011_000697.wav",
+      "metrics": [
+        -99.07427791779538,
+        0.0007891538497058983,
+        0.028091882274171275,
+        31.028383205360583
+      ]
+    },
+    {
+      "text": "What an impetuous boy he is!",
+      "original_audio_path": "Emotion Speech Dataset/0011/Angry/0011_000490.wav",
+      "metrics": [
+        -78.09712233772333,
+        0.002688748979121954,
+        0.051853148208396704,
+        25.704497414996133
+      ]
+    },
+    {
+      "text": "They'd never know I'd regular ran away.",
+      "original_audio_path": "Emotion Speech Dataset/0011/Happy/0011_000746.wav",
+      "metrics": [
+        -91.41183293459883,
+        0.0002650268393349271,
+        0.01627964493884701,
+        35.7671014272423
+      ]
+    },
+    {
+      "text": "By hook or by crook.",
+      "original_audio_path": "Emotion Speech Dataset/0011/Happy/0011_000784.wav",
+      "metrics": [
+        -Infinity,
+        0.0013791282226746156,
+        0.03713661565994693,
+        28.603953539755103
+      ]
+    },
+    {
+      "text": "Monster made a deep bow.",
+      "original_audio_path": "Emotion Speech Dataset/0011/Neutral/0011_000027.wav",
+      "metrics": [
+        -95.59942626526764,
+        0.001477701575931698,
+        0.038440884172085556,
+        28.304132635136586
+      ]
+    },
+    {
+      "text": "Not much use is it, sam?",
+      "original_audio_path": "Emotion Speech Dataset/0011/Neutral/0011_000069.wav",
+      "metrics": [
+        -97.97209883128093,
+        0.0015204732672470904,
+        0.03899324643123589,
+        28.18021211158873
+      ]
+    },
+    {
+      "text": "Am I an absolute pauper?",
+      "original_audio_path": "Emotion Speech Dataset/0011/Sad/0011_001172.wav",
+      "metrics": [
+        -97.75954136721495,
+        0.0006161056339004205,
+        0.024821475256326334,
+        32.10344819837207
+      ]
+    },
+    {
+      "text": "I have bunburyed all over goat on two separate occasions.",
+      "original_audio_path": "Emotion Speech Dataset/0011/Sad/0011_001063.wav",
+      "metrics": [
+        -100.02747163115345,
+        0.001252835609324222,
+        0.03539541791424735,
+        29.021059111663746
+      ]
+    },
+    {
+      "text": "They ate beef at the butcher shop.",
+      "original_audio_path": "Emotion Speech Dataset/0011/Surprise/0011_001566.wav",
+      "metrics": [
+        -68.9784090603205,
+        0.0002955075419681973,
+        0.01719033280562646,
+        35.294314305411945
+      ]
+    },
+    {
+      "text": "I've hit the wrong nose.",
+      "original_audio_path": "Emotion Speech Dataset/0011/Surprise/0011_001499.wav",
+      "metrics": [
+        -80.25695492022295,
+        0.000581926823088462,
+        0.02412315947566699,
+        32.351316241593516
+      ]
+    },
+    {
+      "text": "And vowed he'd change the pigtail's place.",
+      "original_audio_path": "Emotion Speech Dataset/0012/Angry/0012_000528.wav",
+      "metrics": [
+        -85.78751899294117,
+        0.0010735019255109636,
+        0.0327643392350733,
+        29.69197172244932
+      ]
+    },
+    {
+      "text": "I blinked my eyes hard.",
+      "original_audio_path": "Emotion Speech Dataset/0012/Angry/0012_000485.wav",
+      "metrics": [
+        -80.124720349908,
+        0.000510266690609621,
+        0.02258908343890077,
+        32.922027807890466
+      ]
+    },
+    {
+      "text": "Please hire me after you.",
+      "original_audio_path": "Emotion Speech Dataset/0012/Happy/0012_000893.wav",
+      "metrics": [
+        -Infinity,
+        0.00040257832652754915,
+        0.02006435462524397,
+        33.951496097823316
+      ]
+    },
+    {
+      "text": "A special pot too.",
+      "original_audio_path": "Emotion Speech Dataset/0012/Happy/0012_001022.wav",
+      "metrics": [
+        -68.7316454664289,
+        0.0009813695243310336,
+        0.031326817973280234,
+        30.08167432823791
+      ]
+    },
+    {
+      "text": "Who is been repeating all that hard stuff to you?",
+      "original_audio_path": "Emotion Speech Dataset/0012/Neutral/0012_000032.wav",
+      "metrics": [
+        -80.51454112367664,
+        0.0011341576476808061,
+        0.03367725712822833,
+        29.45326574403172
+      ]
+    },
+    {
+      "text": "To catch that bulrush root with my paw!",
+      "original_audio_path": "Emotion Speech Dataset/0012/Neutral/0012_000125.wav",
+      "metrics": [
+        -80.97750349611941,
+        0.00100691296030686,
+        0.03173189184884601,
+        29.970080691605663
+      ]
+    },
+    {
+      "text": "They are made of wood.",
+      "original_audio_path": "Emotion Speech Dataset/0012/Sad/0012_001376.wav",
+      "metrics": [
+        -70.62134404104053,
+        0.0006356811062918546,
+        0.02521271715408426,
+        31.967606964744192
+      ]
+    },
+    {
+      "text": "Ask god to help you.",
+      "original_audio_path": "Emotion Speech Dataset/0012/Sad/0012_001272.wav",
+      "metrics": [
+        -73.12579197267306,
+        0.0005698915329618718,
+        0.02387240107240727,
+        32.44207795412998
+      ]
+    },
+    {
+      "text": "this turn goes to the hill.",
+      "original_audio_path": "Emotion Speech Dataset/0012/Surprise/0012_001526.wav",
+      "metrics": [
+        -83.57275220517704,
+        0.0010523748216671068,
+        0.03244032708939765,
+        29.77829551066995
+      ]
+    },
+    {
+      "text": "How rash you are!",
+      "original_audio_path": "Emotion Speech Dataset/0012/Surprise/0012_001636.wav",
+      "metrics": [
+        -66.78902905738332,
+        0.0006324375847833083,
+        0.025148311768055293,
+        31.989823285264137
+      ]
+    },
+    {
+      "text": "Called out the cloud.",
+      "original_audio_path": "Emotion Speech Dataset/0013/Angry/0013_000671.wav",
+      "metrics": [
+        -71.37958737741165,
+        0.0017309291935385155,
+        0.0416044371856959,
+        27.6172069728027
+      ]
+    },
+    {
+      "text": "Tom could hardly speak for laughing.",
+      "original_audio_path": "Emotion Speech Dataset/0013/Angry/0013_000415.wav",
+      "metrics": [
+        -70.59122636681623,
+        0.001023955464038872,
+        0.031999304118040944,
+        29.897189321714993
+      ]
+    },
+    {
+      "text": "But we are not high yet.",
+      "original_audio_path": "Emotion Speech Dataset/0013/Happy/0013_000853.wav",
+      "metrics": [
+        -67.96534538647686,
+        0.0004925965634224669,
+        0.022194516516979297,
+        33.07508622322059
+      ]
+    },
+    {
+      "text": "He could not help doing so.",
+      "original_audio_path": "Emotion Speech Dataset/0013/Happy/0013_000981.wav",
+      "metrics": [
+        -69.63027373040364,
+        0.0002842242534403165,
+        0.016858951730173394,
+        35.463388655856185
+      ]
+    },
+    {
+      "text": "Look out! said Alice.",
+      "original_audio_path": "Emotion Speech Dataset/0013/Neutral/0013_000118.wav",
+      "metrics": [
+        -56.19864807075238,
+        0.00029684527496034107,
+        0.01722919832610737,
+        35.27469859572628
+      ]
+    },
+    {
+      "text": "They had been named Tom and Jerry.",
+      "original_audio_path": "Emotion Speech Dataset/0013/Neutral/0013_000283.wav",
+      "metrics": [
+        -91.39315534906692,
+        0.001179741262790382,
+        0.03434736180247883,
+        29.28213230374905
+      ]
+    },
+    {
+      "text": "But show me now your map!",
+      "original_audio_path": "Emotion Speech Dataset/0013/Sad/0013_001319.wav",
+      "metrics": [
+        -69.44739586882318,
+        0.0024944293251994965,
+        0.04994426218495471,
+        26.030287964394464
+      ]
+    },
+    {
+      "text": "Called out the cloud.",
+      "original_audio_path": "Emotion Speech Dataset/0013/Sad/0013_001371.wav",
+      "metrics": [
+        -102.53339307821523,
+        0.0005873223039898168,
+        0.02423473342105947,
+        32.311235061964204
+      ]
+    },
+    {
+      "text": "That was the twenty fifth of november, seventeen eighty three.",
+      "original_audio_path": "Emotion Speech Dataset/0013/Surprise/0013_001655.wav",
+      "metrics": [
+        -79.16889040061632,
+        0.0005135326824275145,
+        0.022661259506645135,
+        32.89431911665044
+      ]
+    },
+    {
+      "text": "These words behind the ears is nonsense.",
+      "original_audio_path": "Emotion Speech Dataset/0013/Surprise/0013_001679.wav",
+      "metrics": [
+        -61.56748417482545,
+        0.00017835175668633372,
+        0.013354840196959816,
+        37.48722608694991
+      ]
+    },
+    {
+      "text": "A voice said: Come in.",
+      "original_audio_path": "Emotion Speech Dataset/0014/Angry/0014_000637.wav",
+      "metrics": [
+        -Infinity,
+        0.00010458659607159275,
+        0.010226758825336245,
+        39.80523971540982
+      ]
+    },
+    {
+      "text": "He was still in the forest!",
+      "original_audio_path": "Emotion Speech Dataset/0014/Angry/0014_000403.wav",
+      "metrics": [
+        -69.83413702089497,
+        0.0010172195590329274,
+        0.031893879648498824,
+        29.925852978293936
+      ]
+    },
+    {
+      "text": "She may mind ye of her.",
+      "original_audio_path": "Emotion Speech Dataset/0014/Happy/0014_000742.wav",
+      "metrics": [
+        -84.27770278714407,
+        0.0005759634112119131,
+        0.023999237721475927,
+        32.396051047946365
+      ]
+    },
+    {
+      "text": "Slam the doors and wedge them!",
+      "original_audio_path": "Emotion Speech Dataset/0014/Happy/0014_000964.wav",
+      "metrics": [
+        -61.2157245930705,
+        0.0005562237805707951,
+        0.023584396972803758,
+        32.54750447420987
+      ]
+    },
+    {
+      "text": "But the tune isn't his own invention.",
+      "original_audio_path": "Emotion Speech Dataset/0014/Neutral/0014_000219.wav",
+      "metrics": [
+        -79.98627368945971,
+        0.0005068088334025702,
+        0.022512415094844227,
+        32.95155824205801
+      ]
+    },
+    {
+      "text": "Act drop second act scene.",
+      "original_audio_path": "Emotion Speech Dataset/0014/Neutral/0014_000110.wav",
+      "metrics": [
+        -80.37239392833894,
+        0.0012555637211222159,
+        0.03543393459837922,
+        29.011612415097904
+      ]
+    },
+    {
+      "text": "The octopus has eight legs.",
+      "original_audio_path": "Emotion Speech Dataset/0014/Sad/0014_001108.wav",
+      "metrics": [
+        -74.99873403001462,
+        0.0006763843120773299,
+        0.026007389566762174,
+        31.698064738969734
+      ]
+    },
+    {
+      "text": "Blackbird, and Jay.",
+      "original_audio_path": "Emotion Speech Dataset/0014/Sad/0014_001207.wav",
+      "metrics": [
+        -59.684427433624805,
+        0.0008806052744438252,
+        0.02967499409340843,
+        30.55218717633036
+      ]
+    },
+    {
+      "text": "An hour out of Guildford town.",
+      "original_audio_path": "Emotion Speech Dataset/0014/Surprise/0014_001587.wav",
+      "metrics": [
+        -80.12129647265111,
+        0.00016068802673492894,
+        0.012676278110507396,
+        37.940164823945615
+      ]
+    },
+    {
+      "text": "A lady, is on Alice's lap!",
+      "original_audio_path": "Emotion Speech Dataset/0014/Surprise/0014_001601.wav",
+      "metrics": [
+        -91.69103860209563,
+        0.0005766306715588125,
+        0.024013135396253705,
+        32.391022607780705
+      ]
+    },
+    {
+      "text": "It's me piglit, help help!",
+      "original_audio_path": "Emotion Speech Dataset/0015/Angry/0015_000451.wav",
+      "metrics": [
+        -Infinity,
+        0.000640289254952426,
+        0.025303937538502304,
+        31.93623786250211
+      ]
+    },
+    {
+      "text": "And they did push so!",
+      "original_audio_path": "Emotion Speech Dataset/0015/Angry/0015_000440.wav",
+      "metrics": [
+        -90.97263486029902,
+        0.0005968755687799954,
+        0.02443103699763879,
+        32.241161972202065
+      ]
+    },
+    {
+      "text": "The fisherman and his wife see George every day.",
+      "original_audio_path": "Emotion Speech Dataset/0015/Happy/0015_001005.wav",
+      "metrics": [
+        -Infinity,
+        0.00021281323468312274,
+        0.014588119641788065,
+        36.72001367114197
+      ]
+    },
+    {
+      "text": "Chapter eighteen, the return journey.",
+      "original_audio_path": "Emotion Speech Dataset/0015/Happy/0015_000984.wav",
+      "metrics": [
+        -Infinity,
+        0.0005338731167996977,
+        0.02310569446694251,
+        32.725619475060086
+      ]
+    },
+    {
+      "text": "She has no place for hot peper .",
+      "original_audio_path": "Emotion Speech Dataset/0015/Neutral/0015_000325.wav",
+      "metrics": [
+        -Infinity,
+        0.00041127606274031975,
+        0.020279942375172562,
+        33.85866566742505
+      ]
+    },
+    {
+      "text": "But what about this thing, sticky!",
+      "original_audio_path": "Emotion Speech Dataset/0015/Neutral/0015_000214.wav",
+      "metrics": [
+        -56.57756141407126,
+        0.0011051167369706854,
+        0.03324329612073215,
+        29.56591843658145
+      ]
+    },
+    {
+      "text": "She laughed.",
+      "original_audio_path": "Emotion Speech Dataset/0015/Sad/0015_001304.wav",
+      "metrics": [
+        -Infinity,
+        0.0004063059192564228,
+        0.02015703150903979,
+        33.911468506204855
+      ]
+    },
+    {
+      "text": "And his heart wagged with joy like a lamb's tail.",
+      "original_audio_path": "Emotion Speech Dataset/0015/Sad/0015_001379.wav",
+      "metrics": [
+        -61.75278192913805,
+        0.000576356828633367,
+        0.024007432778899267,
+        32.393085569844835
+      ]
+    },
+    {
+      "text": "No, I burst the balloon!",
+      "original_audio_path": "Emotion Speech Dataset/0015/Surprise/0015_001516.wav",
+      "metrics": [
+        -Infinity,
+        0.0006749140099272215,
+        0.025979107181102693,
+        31.707515566401593
+      ]
+    },
+    {
+      "text": "How I hate this foul pool!",
+      "original_audio_path": "Emotion Speech Dataset/0015/Surprise/0015_001436.wav",
+      "metrics": [
+        -Infinity,
+        0.0005402071277844454,
+        0.02324235633029589,
+        32.674396897949386
+      ]
+    },
+    {
+      "text": "Mister Lawson saw George last night.",
+      "original_audio_path": "Emotion Speech Dataset/0016/Angry/0016_000463.wav",
+      "metrics": [
+        -77.36675672746516,
+        0.0006927281303903111,
+        0.026319728919392597,
+        31.594371761205878
+      ]
+    },
+    {
+      "text": "Hold up my chin, slow and solid.",
+      "original_audio_path": "Emotion Speech Dataset/0016/Angry/0016_000388.wav",
+      "metrics": [
+        -83.01566127011093,
+        0.0006916605315280335,
+        0.026299439756923216,
+        31.601070059154132
+      ]
+    },
+    {
+      "text": "She has felt shy of it.",
+      "original_audio_path": "Emotion Speech Dataset/0016/Happy/0016_000988.wav",
+      "metrics": [
+        -92.41880209740506,
+        0.0008396049432167181,
+        0.02897593731385955,
+        30.75925013151305
+      ]
+    },
+    {
+      "text": "I shall say good bye.",
+      "original_audio_path": "Emotion Speech Dataset/0016/Happy/0016_000872.wav",
+      "metrics": [
+        -71.07210326317555,
+        0.0009782808187772229,
+        0.03127748101713472,
+        30.09536461634223
+      ]
+    },
+    {
+      "text": "First, issue a reward.",
+      "original_audio_path": "Emotion Speech Dataset/0016/Neutral/0016_000181.wav",
+      "metrics": [
+        -80.34343359323321,
+        0.0004719229696650573,
+        0.021723788105785263,
+        33.2612888394967
+      ]
+    },
+    {
+      "text": "Off for the prison ship.",
+      "original_audio_path": "Emotion Speech Dataset/0016/Neutral/0016_000244.wav",
+      "metrics": [
+        -84.84449330396599,
+        0.0008604384016736897,
+        0.029333230331378263,
+        30.652802151339365
+      ]
+    },
+    {
+      "text": "And would spoil my joke.",
+      "original_audio_path": "Emotion Speech Dataset/0016/Sad/0016_001180.wav",
+      "metrics": [
+        -80.96164798444971,
+        0.0006792188637114724,
+        0.026061827712412507,
+        31.67990261085604
+      ]
+    },
+    {
+      "text": "Give me a fine fat goose.",
+      "original_audio_path": "Emotion Speech Dataset/0016/Sad/0016_001363.wav",
+      "metrics": [
+        -68.73784827758068,
+        0.0003722273707702279,
+        0.019293194934230772,
+        34.291916953174876
+      ]
+    },
+    {
+      "text": "I owe them five hundred dollars.",
+      "original_audio_path": "Emotion Speech Dataset/0016/Surprise/0016_001707.wav",
+      "metrics": [
+        -93.35532673742026,
+        0.0018906192705532491,
+        0.043481251943259976,
+        27.233959197776535
+      ]
+    },
+    {
+      "text": "The owl flew into a bush.",
+      "original_audio_path": "Emotion Speech Dataset/0016/Surprise/0016_001519.wav",
+      "metrics": [
+        -73.18867325088999,
+        0.0009871338772605737,
+        0.031418686752640916,
+        30.05623943366171
+      ]
+    },
+    {
+      "text": "No, I burst the balloon!",
+      "original_audio_path": "Emotion Speech Dataset/0017/Angry/0017_000466.wav",
+      "metrics": [
+        -76.6814215082701,
+        0.0004007068425967588,
+        0.02001766326514558,
+        33.9717324135407
+      ]
+    },
+    {
+      "text": "She had said, so that one could keep up a conversation!",
+      "original_audio_path": "Emotion Speech Dataset/0017/Angry/0017_000378.wav",
+      "metrics": [
+        -93.57874596524763,
+        0.0011754483358055125,
+        0.03428481202814903,
+        29.29796454559174
+      ]
+    },
+    {
+      "text": "Give me a fine fat goose.",
+      "original_audio_path": "Emotion Speech Dataset/0017/Happy/0017_001013.wav",
+      "metrics": [
+        -76.60419440812069,
+        0.0004959712239761155,
+        0.022270411401142,
+        33.04543520346335
+      ]
+    },
+    {
+      "text": "Andy what's the gyre and to gimble.",
+      "original_audio_path": "Emotion Speech Dataset/0017/Happy/0017_000706.wav",
+      "metrics": [
+        -86.70012264280501,
+        0.0006406244083682375,
+        0.025310559226698993,
+        31.933965183451715
+      ]
+    },
+    {
+      "text": "When such wanderers meet.",
+      "original_audio_path": "Emotion Speech Dataset/0017/Neutral/0017_000189.wav",
+      "metrics": [
+        -Infinity,
+        0.0002890349047308617,
+        0.01700102657873523,
+        35.39049707358852
+      ]
+    },
+    {
+      "text": "No thank you.",
+      "original_audio_path": "Emotion Speech Dataset/0017/Neutral/0017_000212.wav",
+      "metrics": [
+        -65.55046664922172,
+        0.00025416756926229477,
+        0.015942633699056588,
+        35.94879864438788
+      ]
+    },
+    {
+      "text": "She and i are running a neck and neck race.",
+      "original_audio_path": "Emotion Speech Dataset/0017/Sad/0017_001297.wav",
+      "metrics": [
+        -91.75663793983324,
+        0.00044961646988453434,
+        0.021204161617110317,
+        33.471577885222636
+      ]
+    },
+    {
+      "text": "I chose the right way.",
+      "original_audio_path": "Emotion Speech Dataset/0017/Sad/0017_001091.wav",
+      "metrics": [
+        -70.85436084619678,
+        0.0002345817703047868,
+        0.015316062493499653,
+        36.29705740573657
+      ]
+    },
+    {
+      "text": "And what does it mean?",
+      "original_audio_path": "Emotion Speech Dataset/0017/Surprise/0017_001743.wav",
+      "metrics": [
+        -81.92250377717095,
+        0.0008251620722966159,
+        0.028725634410689975,
+        30.83460742127436
+      ]
+    },
+    {
+      "text": "this turn goes to the hill.",
+      "original_audio_path": "Emotion Speech Dataset/0017/Surprise/0017_001526.wav",
+      "metrics": [
+        -97.18955968823784,
+        0.0005728283240662792,
+        0.0239338322060275,
+        32.41975516046625
+      ]
+    },
+    {
+      "text": "I'm as bad as I can be.",
+      "original_audio_path": "Emotion Speech Dataset/0018/Angry/0018_000357.wav",
+      "metrics": [
+        -76.05728083025049,
+        0.0015933229072945968,
+        0.03991644908173317,
+        27.976961999397023
+      ]
+    },
+    {
+      "text": "Both side were softly curved.",
+      "original_audio_path": "Emotion Speech Dataset/0018/Angry/0018_000590.wav",
+      "metrics": [
+        -77.52661299625314,
+        0.0022468209101036076,
+        0.04740064250728684,
+        26.484315430029653
+      ]
+    },
+    {
+      "text": "What would they do at the end of the year?",
+      "original_audio_path": "Emotion Speech Dataset/0018/Happy/0018_000937.wav",
+      "metrics": [
+        -83.77069114321156,
+        0.0011081514763489617,
+        0.03328890920935923,
+        29.554008706129174
+      ]
+    },
+    {
+      "text": "Then we all say aha!",
+      "original_audio_path": "Emotion Speech Dataset/0018/Happy/0018_000749.wav",
+      "metrics": [
+        -77.15365348497505,
+        0.0007181350329061142,
+        0.026798041587140546,
+        31.437938864928604
+      ]
+    },
+    {
+      "text": "And we are so thirsty!",
+      "original_audio_path": "Emotion Speech Dataset/0018/Neutral/0018_000064.wav",
+      "metrics": [
+        -75.80328546353837,
+        0.0031894757890019556,
+        0.056475444123990345,
+        24.96280690187846
+      ]
+    },
+    {
+      "text": "He could not help doing so.",
+      "original_audio_path": "Emotion Speech Dataset/0018/Neutral/0018_000281.wav",
+      "metrics": [
+        -87.25812424882803,
+        0.00033593101815513514,
+        0.01832842104915574,
+        34.73749893771695
+      ]
+    },
+    {
+      "text": "Bob goes to a new school.",
+      "original_audio_path": "Emotion Speech Dataset/0018/Sad/0018_001364.wav",
+      "metrics": [
+        -84.81112581001605,
+        0.0007811845279499912,
+        0.027949678494572906,
+        31.07246366885059
+      ]
+    },
+    {
+      "text": "All this have we won by our labour.",
+      "original_audio_path": "Emotion Speech Dataset/0018/Sad/0018_001225.wav",
+      "metrics": [
+        -77.12534994349144,
+        0.0006511927466626278,
+        0.025518478533459392,
+        31.862904454989838
+      ]
+    },
+    {
+      "text": "Why should i care though David's lips were twitching?",
+      "original_audio_path": "Emotion Speech Dataset/0018/Surprise/0018_001633.wav",
+      "metrics": [
+        -Infinity,
+        0.0011808621268354917,
+        0.03436367452464145,
+        29.278008060697665
+      ]
+    },
+    {
+      "text": "Who is been repeating all that hard stuff to you?",
+      "original_audio_path": "Emotion Speech Dataset/0018/Surprise/0018_001432.wav",
+      "metrics": [
+        -61.705244922176746,
+        0.0003249057275940741,
+        0.01802514154158225,
+        34.88242632636009
+      ]
+    },
+    {
+      "text": "In which fox loses a tail and its elder sister finds one.",
+      "original_audio_path": "Emotion Speech Dataset/0019/Angry/0019_000390.wav",
+      "metrics": [
+        -76.0988642330179,
+        0.0007457291714608764,
+        0.02730804224877493,
+        31.274188678297037
+      ]
+    },
+    {
+      "text": "Today isn't any other day.",
+      "original_audio_path": "Emotion Speech Dataset/0019/Angry/0019_000588.wav",
+      "metrics": [
+        -68.57992803651354,
+        0.000312753061186282,
+        0.017684825732426145,
+        35.0479843079584
+      ]
+    },
+    {
+      "text": "Act drop second act scene.",
+      "original_audio_path": "Emotion Speech Dataset/0019/Happy/0019_000810.wav",
+      "metrics": [
+        -75.45463225399376,
+        0.0008842289975042597,
+        0.029735988255046437,
+        30.534352468949816
+      ]
+    },
+    {
+      "text": "To catch that bulrush root with my paw!",
+      "original_audio_path": "Emotion Speech Dataset/0019/Happy/0019_000825.wav",
+      "metrics": [
+        -94.1270516095752,
+        0.0012996510426138853,
+        0.03605067326158952,
+        28.86173240470913
+      ]
+    },
+    {
+      "text": "As rich-as Peter's son in law!",
+      "original_audio_path": "Emotion Speech Dataset/0019/Neutral/0019_000021.wav",
+      "metrics": [
+        -82.22234318713421,
+        0.0013865789361217392,
+        0.03723679545989073,
+        28.58055401566628
+      ]
+    },
+    {
+      "text": "Mister share man, I move for a division.",
+      "original_audio_path": "Emotion Speech Dataset/0019/Neutral/0019_000016.wav",
+      "metrics": [
+        -79.32775145847678,
+        0.0012784314482743536,
+        0.03575515974337625,
+        28.93322554641449
+      ]
+    },
+    {
+      "text": "Blackbird, and Jay.",
+      "original_audio_path": "Emotion Speech Dataset/0019/Sad/0019_001207.wav",
+      "metrics": [
+        -92.55811507394384,
+        0.0004958692987424944,
+        0.022268122928134165,
+        33.04632779790107
+      ]
+    },
+    {
+      "text": "Why did I wake up!",
+      "original_audio_path": "Emotion Speech Dataset/0019/Sad/0019_001373.wav",
+      "metrics": [
+        -76.56964578032313,
+        0.0015369748491122035,
+        0.03920427080194457,
+        28.133332391893603
+      ]
+    },
+    {
+      "text": "Please hire me after you.",
+      "original_audio_path": "Emotion Speech Dataset/0019/Surprise/0019_001593.wav",
+      "metrics": [
+        -78.14731451304796,
+        0.0009516414650231073,
+        0.03084868660126566,
+        30.215266430971525
+      ]
+    },
+    {
+      "text": "That I owe my thanks to you.",
+      "original_audio_path": "Emotion Speech Dataset/0019/Surprise/0019_001403.wav",
+      "metrics": [
+        -67.12063203334309,
+        0.0003482857330134682,
+        0.01866241498342238,
+        34.580643153793424
+      ]
+    },
+    {
+      "text": "She has a high voice.",
+      "original_audio_path": "Emotion Speech Dataset/0020/Angry/0020_000642.wav",
+      "metrics": [
+        -79.00623159775465,
+        0.0006122628652215974,
+        0.0247439460317387,
+        32.130620804604206
+      ]
+    },
+    {
+      "text": "Does the one that wins get the crowned?",
+      "original_audio_path": "Emotion Speech Dataset/0020/Angry/0020_000442.wav",
+      "metrics": [
+        -104.35511127886201,
+        0.0005389561967177926,
+        0.02321543014285526,
+        32.684465303546204
+      ]
+    },
+    {
+      "text": "They are made of wood.",
+      "original_audio_path": "Emotion Speech Dataset/0020/Happy/0020_001026.wav",
+      "metrics": [
+        -74.89460111540215,
+        0.00032774970369071996,
+        0.018103858806638985,
+        34.84457692271115
+      ]
+    },
+    {
+      "text": "It weighs seven point five kilogram.",
+      "original_audio_path": "Emotion Speech Dataset/0020/Happy/0020_000910.wav",
+      "metrics": [
+        -89.5655987960788,
+        0.001473080526580079,
+        0.03838073118871081,
+        28.317735116139403
+      ]
+    },
+    {
+      "text": "Come on my jack in the boxes!",
+      "original_audio_path": "Emotion Speech Dataset/0020/Neutral/0020_000074.wav",
+      "metrics": [
+        -75.30467316932985,
+        0.0005008258977747752,
+        0.022379139790768884,
+        33.00313221790689
+      ]
+    },
+    {
+      "text": "The song is really louding on a gate.",
+      "original_audio_path": "Emotion Speech Dataset/0020/Neutral/0020_000204.wav",
+      "metrics": [
+        -78.82378672020674,
+        0.0017568645091580785,
+        0.04191496760297064,
+        27.55261730362385
+      ]
+    },
+    {
+      "text": "A half pounds of flour and two ounces suet.",
+      "original_audio_path": "Emotion Speech Dataset/0020/Sad/0020_001164.wav",
+      "metrics": [
+        -74.63253519053424,
+        0.0009231258130648632,
+        0.030382985585107714,
+        30.347391048286845
+      ]
+    },
+    {
+      "text": "In which fox loses a tail and its elder sister finds one.",
+      "original_audio_path": "Emotion Speech Dataset/0020/Sad/0020_001090.wav",
+      "metrics": [
+        -80.48688611327874,
+        0.0013465496814579726,
+        0.036695363214689296,
+        28.707776184982848
+      ]
+    },
+    {
+      "text": "What an impetuous boy he is!",
+      "original_audio_path": "Emotion Speech Dataset/0020/Surprise/0020_001540.wav",
+      "metrics": [
+        -90.57222117300785,
+        0.00043120277182739263,
+        0.020765422505390846,
+        33.653184561110386
+      ]
+    },
+    {
+      "text": "Give me your hand or I will cry harder than before.",
+      "original_audio_path": "Emotion Speech Dataset/0020/Surprise/0020_001642.wav",
+      "metrics": [
+        -72.38209535399152,
+        0.00031307865909488804,
+        0.017694028910762185,
+        35.04346534916476
+      ]
+    }
+  ]
+}

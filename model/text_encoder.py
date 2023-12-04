@@ -281,7 +281,7 @@ class Encoder(BaseModule):
 class TextEncoder(BaseModule):
     def __init__(self, n_vocab, n_feats, n_channels, filter_channels, 
                  filter_channels_dp, n_heads, n_layers, kernel_size, 
-                 p_dropout, window_size=None, spk_emb_dim=64, n_spks=1):
+                 p_dropout, window_size=None, spk_emb_dim=64, n_spks=1, emotion_emb_dim=64, n_emotions=1):
         super(TextEncoder, self).__init__()
         self.n_vocab = n_vocab
         self.n_feats = n_feats
@@ -295,6 +295,9 @@ class TextEncoder(BaseModule):
         self.window_size = window_size
         self.spk_emb_dim = spk_emb_dim
         self.n_spks = n_spks
+        self.emotion_emb_dim = emotion_emb_dim
+        self.n_emotions = n_emotions
+
 
         self.emb = torch.nn.Embedding(n_vocab, n_channels)
         torch.nn.init.normal_(self.emb.weight, 0.0, n_channels**-0.5)
@@ -302,21 +305,26 @@ class TextEncoder(BaseModule):
         self.prenet = ConvReluNorm(n_channels, n_channels, n_channels, 
                                    kernel_size=5, n_layers=3, p_dropout=0.5)
 
-        self.encoder = Encoder(n_channels + (spk_emb_dim if n_spks > 1 else 0), filter_channels, n_heads, n_layers, 
+        self.encoder = Encoder(n_channels + (spk_emb_dim if n_spks > 1 else 0) + (emotion_emb_dim if n_emotions > 1 else 0), filter_channels, n_heads, n_layers, 
                                kernel_size, p_dropout, window_size=window_size)
 
-        self.proj_m = torch.nn.Conv1d(n_channels + (spk_emb_dim if n_spks > 1 else 0), n_feats, 1)
-        self.proj_w = DurationPredictor(n_channels + (spk_emb_dim if n_spks > 1 else 0), filter_channels_dp, 
+        self.proj_m = torch.nn.Conv1d(n_channels + (spk_emb_dim if n_spks > 1 else 0) + (emotion_emb_dim if n_emotions > 1 else 0), n_feats, 1)
+        self.proj_w = DurationPredictor(n_channels + (spk_emb_dim if n_spks > 1 else 0) + (emotion_emb_dim if n_emotions > 1 else 0), filter_channels_dp, 
                                         kernel_size, p_dropout)
 
-    def forward(self, x, x_lengths, spk=None):
+    def forward(self, x, x_lengths, spk=None, emotion=None):
         x = self.emb(x) * math.sqrt(self.n_channels)
         x = torch.transpose(x, 1, -1)
         x_mask = torch.unsqueeze(sequence_mask(x_lengths, x.size(2)), 1).to(x.dtype)
 
         x = self.prenet(x, x_mask)
-        if self.n_spks > 1:
+        if self.n_spks > 1 and self.n_emotions >1 :
+            x = torch.cat([x, spk.unsqueeze(-1).repeat(1, 1, x.shape[-1]), emotion.unsqueeze(-1).repeat(1, 1, x.shape[-1])], dim=1)
+        elif self.n_spks > 1:
             x = torch.cat([x, spk.unsqueeze(-1).repeat(1, 1, x.shape[-1])], dim=1)
+        elif self.n_emotions > 1:
+            x = torch.cat([x, emotion.unsqueeze(-1).repeat(1, 1, x.shape[-1])], dim=1)
+        
         x = self.encoder(x, x_mask)
         mu = self.proj_m(x) * x_mask
 
